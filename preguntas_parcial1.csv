@@ -39,8 +39,7 @@
 3;BPM;La arquitectura tecnológica de BPM no suele incluir SOA.;FALSO
 3;BPM;La arquitectura tecnológica de BPM suele incluir SOA para facilitar la comunicación y movilidad de los datos entre diferentes aplicaciones de TI.;VERDADERO
 3;BPM;Los riesgos asociados a la implantación de sistemas BPM suelen estar asociados a la falta de disponibilidad tecnológica.;FALSO
-3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral 
-de la organización y al cambio cultural necesario.;VERDADERO
+3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral de la organización y al cambio cultural necesario.;VERDADERO
 3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral de la organización y al cambio cultural necesario.;VERDADERO
 3;BPM;Los sistemas BPM permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.;FALSO
 3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico consiste en el uso de las tecnologias propias de Internet en los procesos internos del gobierno para hacerlos más eficientes y/o brindar mejores servicios a los ciudadanos.;VERDADERO
@@ -89,8 +88,7 @@ de la organización y al cambio cultural necesario.;VERDADERO
 3;SCM;Uno de los riesgos de SCM está asociados a la resistencia al cambio producto de la pérdida de discrecionalidad.;VERDADERO
 4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados a la incapacidad de determinar la veracidad de los resultados estadísticos.;FALSO
 4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados a la manipulación estadística de los resultados.;VERDADERO
-4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados la incapacidad de 
-determinar la veracidad de los resultados estadísticos.;FALSO
+4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados la incapacidad de determinar la veracidad de los resultados estadísticos.;FALSO
 4;BI;Business Intelligence es un conjunto de métodos, herramientas y tecnologías que engloba a todos los procesos integrantes del ciclo de vida de un negocio, y es utilizado para diseñar, representar, analizar y controlar procesos de negocio operacionales.;FALSO
 4;BI;Dentro de los sistemas de BI open source se encuentran: BIRT, JasperReport y Pentaho.;VERDADERO
 4;BI;La implantación de sistemas de BI en PYMES rara vez no resulta exitosa ya que las empresas se acostumbran naturalmente a la gestión en base a resultados.;FALSO
@@ -363,4 +361,3 @@ determinar la veracidad de los resultados estadísticos.;FALSO
 13;SOA;SOA propone un modelo mucho más eficiente, en el que el código de la función es independiente de la forma en que se resuelve la integración.;VERDADERO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
-
