@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Verdadero/Falso Personalizado</title>
+    <title>Practica: Segundo Parcial GRI</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -33,7 +33,7 @@
 <div id="app" class="min-h-screen flex flex-col items-center justify-center p-4">
     <!-- Contenedor Principal -->
     <div class="w-full max-w-lg bg-white rounded-xl p-8 container-card">
-        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Quiz: Verdadero o Falso</h1>
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Segundo Parcial GRI 🤓</h1>
         
         <!-- Carga del Archivo CSV -->
         <div id="file-upload-section" class="mb-8 p-4 border-2 border-dashed border-indigo-300 rounded-lg bg-indigo-50">
@@ -75,7 +75,7 @@
                     Falso
                 </button>
                 <button onclick="handleAnswer('Omitir')" class="py-3 rounded-xl text-gray-700 font-bold bg-gray-200 hover:bg-gray-300 focus:outline-none focus:ring-4 focus:ring-gray-300">
-                    Omitir (0)
+                    Omitir
                 </button>
             </div>
 
@@ -96,7 +96,7 @@
                 <li>Omitidas: <span id="stat-skipped" class="font-bold">0</span></li>
             </ul>
             <button onclick="location.reload()" class="mt-6 py-2 px-6 rounded-full text-white font-bold bg-indigo-500 hover:bg-indigo-600 focus:outline-none focus:ring-4 focus:ring-indigo-300">
-                Empezar un Nuevo Quiz
+                Empezar nuevo intento!
             </button>
         </div>
 
@@ -107,36 +107,7 @@
 
 <script>
     // --- CSV EMBEBIDO (TU BANCO DE PREGUNTAS) ---
-    const EMBEDDED_CSV = `"A diferencia de otras actividades empresariales, el nivel de ""gobernabilidad"" de las TIC no puede estar soportado por un modelo de madurez.";FALSO
-"Al igual que otras actividades empresariales, el nivel de ""gobernabilidad"" de las TIC puede estar soportado por un modelo de madurez en función al nivel de formalización y aplicación de los procesos.";VERDADERO
-El concepto Gobierno de las TIC apunta a describir los mecanismos mediante los cuales la dirección asegura la maximización de los beneficios que las TIC pueden ofrecer.;VERDADERO
-El concepto Gobierno de las TIC apunta a describir los mecanismos mediante los cuales la dirección asegura la minimización de los costos asociados a las TIC.;FALSO
-"El concepto y las metodologías asociadas a la ""gobernabilidad de las TIC"" es central para la gestión de organizaciones grandes, especialmente multinacionales.";VERDADERO
-El Gobierno de las TIC está fundamentalmente basado en los procesos de gestión utilizados, los participantes y los roles de cada uno.;VERDADERO
-"El nivel de ""gobernabilidad"" de las TIC puede estar soportado por un CMM en función al nivel de formalización y aplicación de los procesos";VERDADERO
-"La adaptación a organizaciones de menor porte es necesaria a efectos de evitar excesos de burocratización sin valor agregado, que los programas de ""gobernabilidad de TIC"" puedan conllevar.";VERDADERO
-Algunas organizaciones multinacionales realizan tercerizaciones tácticas en las áreas de TIC (como en otras) eliminando los puestos de menor valor agregado, e incluso a mayores costos, a los efectos de mejorar indicadores como la relación ventas por empleado.;VERDADERO
-"En ""Los riesgos de tercerizar la informática"" se menciona como aspecto negativo, la falta de aprendizaje organizacional relativo a procesos y tecnología, a los que una tercerización lleva";VERDADERO
-"En ""Los riesgos de tercerizar la informática"" se menciona que la falta de aprendizaje organizacional relativo a procesos y tecnología, a los que una tercerización lleva, no es de importancia frente a las economías de escala que pueden obtenerse.";FALSO
-"En ""Los Riesgos de Tercerizar la Informática"" se minimiza la posibilidad de la destrucción de capacidades centrales.";FALSO
-"En ""Los Riesgos de Tercerizar la Informática"" se minimizan los efectos asociados a la posible irreversibilidad del proceso de tercerización";FALSO
-"En ""Los Riesgos de Tercerizar la Informática"" se señala la destrucción de capacidades centrales y a la irreversibilidad del proceso de tercerización.";VERDADERO
-En algunos casos, como por ejemplo cuando existen múltiples proveedores que pueden trasladar parte de los beneficios de las economías de escala a sus clientes, la tercerización parcial, debe ser considerada;VERDADERO
-Incluso cuando existen múltiples proveedores que pueden trasladar parte de los beneficios de las economías de escala a sus clientes, la tercerización involucra riesgos difíciles de manejar.;FALSO
-La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
-La predicción de las necesidades futuras de la organización, no constituye, según Micheal Earl, un factor que atente contra el éxito de las tercerizaciones;FALSO
-La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio;VERDADERO
-Las decisiones de tercerización de TIC, en general no son difíciles de revertir si no se logran los resultados esperados;FALSO
-"Micheal Earl en ""Los riesgos de tercerizar la informática"", sostiene que la ""incertidumbre endémica"" impacta las posibilidades de tercerización, ya que es altamente difícil prever las necesidades de TIC en el mediano y largo plazo.";VERDADERO
-"Micheal Earl en ""Los riesgos de tercerizar la informática"", sostiene que la ""incertidumbre endémica"" no impacta las posibilidades de tercerización";FALSO
-Micheal Earl ofrece una visión crítica respecto de la tercerización, fundamentada en once puntos.;VERDADERO
-Micheal Earl ofrece una visión favorable respecto de la tercerización, fundamentada en once puntos.;FALSO
-Según Earl, en el proceso de administración de un contrato de tercerización, los costos de gestión no son irrelevantes.;VERDADERO
-Según Earl, en el proceso de administración de un contrato de tercerización, los costos de gestión son irrelevantes;FALSO
-Según Earl, la capacidad de innovación aumenta con las tercerizaciones ya que los proveedores poseen foco y economías de escala para uso de las nuevas TIC.;FALSO
-Según Earl, la capacidad de innovación no necesariamente aumenta con las tercerizaciones.;VERDADERO
-Una decisión de tercerización tendrá sustento económico y estratégico, cuando el proveedor traslade parte de los beneficios derivados de las economías de escala, y esto no signifique una dependencia significativa para la organización;VERDADERO
-COBIT no provee beneficios a los Gerentes de las TIC, ya que es una herramienta destinada fundamentalmente a los auditores.;FALSO
+    const EMBEDDED_CSV = `COBIT no provee beneficios a los Gerentes de las TIC, ya que es una herramienta destinada fundamentalmente a los auditores.;FALSO
 COBIT no sugiere ni medidas ni indicadores sino que se focaliza en procesos generalmente aceptados para realizar un correcto gobierno de las TIC.;FALSO
 COBIT provee beneficios a los Gerentes de TIC, ya que les proporciona un marco adecuado para la toma de decisiones, y los ayuda a definir un plan estratégico.;VERDADERO
 COBIT provee un conjunto de medidas, indicadores y procesos generalmente aceptados para asistir en la tarea de maximizar los beneficios, y realizar un correcto control y gobierno de las TIC.;VERDADERO
@@ -298,7 +269,7 @@ La legislación relativa al uso de las TIC es reciente, no completamente desarro
 Los convenios de confidencialidad, las normas de conducta comercial, las normas de uso de los sistemas informáticos, etc le proveen a la empresa de un marco para aplicar sanciones, incluso el despido con causa, en caso de incumplimiento por parte del empleado;VERDADERO
 Los convenios de confidencialidad, las normas de conducta comercial, las normas de uso de los sistemas informáticos, etc. son instrumentos ineficaces para aplicar sanciones, en caso de incumplimiento por parte del empleado.;FALSO
 Una determinada persona no puede ser separada de la organización con causa excepto cuando haya infringido alguna ley.;FALSO
-Una determinada persona puede ser separada de la organización con causa excepto cuando haya infringido alguna ley.;FALSO
+Una determinada persona puede ser separada de la organización con causa por una conducta no ética, aún cuando no haya infringido ninguna ley ni norma interna de la compañía.;FALSO
 Una determinada persona puede ser separada de la organización con causa sólo cuando haya infringido alguna ley o norma interna de la compañía;VERDADERO
 El emprendedurismo es una actividad de riesgo bajo si se realiza una buena planificación.;FALSO
 El emprendedurismo es una actividad de riesgo y no todas las personas se sienten a gusto con ello.;VERDADERO
@@ -308,6 +279,7 @@ Existen múltiples fuentes de financiamiento, incluyendo en algunos países ANR,
 "Las siglas ""3F"" se utilizan para denotar a los Fondos de Inversión de tercera generación.";FALSO
 "Los ANR, aportes no reembolsables, son instrumentos de asistencia financiera otorgados por organismos oficiales en algunos países como estímulo a la actividad del ""emprendedor"".";VERDADERO
 Muchos proyectos se inician con capital aportado por el círculo cercano al emprendedor: familiares, amigos y personas que creen en él.;VERDADERO
+"La sigla ""3F"" se suele utilizar como síntesis de: family, friends and fools.";VERDADERO
 Contrariamente a otras incitativas, no hay efectos colaterales o no deseados asociados a Green IT.;VERDADERO
 El Green IT también implica otros aspectos como la reducción de los componentes nocivos empleados en la fabricación de productos tecnológicos, la capacidad de biodegradación o reciclaje de los mismos, recogiendo o reutilizando las maquinas obsoletas y fomentando políticas de reciclaje en las empresas.;VERDADERO
 Entre los beneficios de Green IT se encuentra el uso eficiente de los recursos computacionales minimizando el impacto ambiental, maximizando su viabilidad económica y asegurando deberes sociales.;VERDADERO
@@ -329,8 +301,7 @@ CABASE, la Cámara Argentina de Internet reúne a empresas usuarias y emprendedo
 CABASE, la Cámara Argentina de Internet reúne a las empresas proveedoras de Servicios de Acceso a Internet, Telefonía, Soluciones de Datacenter y contenidos Online, entre otras.;VERDADERO
 CADIEEL, la Cámara Argentina de Industrias Electrónicas, Electromecánicas y Luminotécnica representa a más de 3000 empresas de la industria electro-electrónica que emplean a más de treinta mil personas y facturan anualmente más de 3000 millones de dólares.;VERDADERO
 CESSI es la Cámara de Informática y Comunicaciones de la República Argentina, nuclea compañías de diferentes perfiles, pequeñas, medianas y grandes, de origen nacional y extranjero.;FALSO
-La Cámara de Empresas de Software y Servicios Informáticos, CICOMRA, organización sin fines de lucro, nuclea a grandes, medianos, pequeñas empresas y entidades regionales del sector informático, dedicadas al desarrollo, producción, comercialización e implementación de software y todas las variantes de servicios.;FALSO
-"La sigla ""3F"" se suele utilizar como síntesis de: family, friends and fools.";VERDADERO`;
+La Cámara de Empresas de Software y Servicios Informáticos, CICOMRA, organización sin fines de lucro, nuclea a grandes, medianos, pequeñas empresas y entidades regionales del sector informático, dedicadas al desarrollo, producción, comercialización e implementación de software y todas las variantes de servicios.;FALSO`;
 
     const MAX_QUESTIONS = 50;
     let allQuestions = [];
