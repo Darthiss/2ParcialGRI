@@ -1,0 +1,195 @@
+﻿COBIT no provee beneficios a los Gerentes de las TIC, ya que es una herramienta destinada fundamentalmente a los auditores.;FALSO
+COBIT no sugiere ni medidas ni indicadores sino que se focaliza en procesos generalmente aceptados para realizar un correcto gobierno de las TIC.;FALSO
+COBIT provee beneficios a los Gerentes de TIC, ya que les proporciona un marco adecuado para la toma de decisiones, y los ayuda a definir un plan estratégico.;VERDADERO
+COBIT provee un conjunto de medidas, indicadores y procesos generalmente aceptados para asistir en la tarea de maximizar los beneficios, y realizar un correcto control y gobierno de las TIC.;VERDADERO
+COBIT, u Objetivos de Control para la Información y Tecnologías relacionadas, es un marco de mejores prácticas para el desarrollo de software.;FALSO
+COBIT, u Objetivos de Control para la Información y Tecnologías relacionadas, es un marco de mejores prácticas para el manejo de la tecnología de la información.;VERDADERO
+La principal desventaja de COBIT es que los auditores y gerentes necesitan un profundo conocimiento sobre el marco COBIT para poder aplicarlo a los procesos de la empresa.;VERDADERO
+La principal ventaja de COBIT es que los auditores y gerentes no necesitan un conocimiento profundo sobre el marco COBIT para poder aplicarlo.;FALSO
+"El beneficio principal de ITIL es que permite lograr una correcta alineación de los objetivos de TI con los objetivos estratégicos del negocio; convirtiendo los objetivos del negocio en parte del portafolio de servicios de IT.";VERDADERO
+ITIL es un conjunto de prácticas y procesos, destinadas a facilitar la entrega de servicios de tecnologías de la información.;VERDADERO
+ITIL es una metodología destinada a facilitar la entrega de servicios de tecnologías de la información.;FALSO
+ITIL, en la parte estratégica de los servicios, indica cómo establecer un caso de negocio que sirva para las aprobaciones ejecutivas de un proyecto.;VERDADERO
+ITIL, no indica cómo establecer un caso de negocio que sirva para las aprobaciones ejecutivas de un proyecto.;FALSO
+La implementación de ITIL normalmente mejora la comunicación entre TI y las organizaciones a través de un lenguaje común.;VERDADERO
+La implementación de ITIL puede ser un proceso complejo y engorroso, por lo cual deben fijarse objetivos realistas y graduales.;VERDADERO
+La implementación de ITIL, para ser efectiva, no puede parcializarse ya que ITIL y las prácticas asociadas constituyen un todo.;FALSO
+La versión actual de ITIL cubre los 5 procesos propios de la gestión del CIO;FALSO
+La versión actual de ITIL cubre más de 25 procesos propios de la gestión del CIO, y está organizada en 5 libros.;VERDADERO
+La versión actual de ITIL cubre más de 250 procesos propios de la gestión del CIO, y está organizada en 15 libros.;FALSO
+Si bien ITIL permite lograr una correcta alineación de los objetivos de TI con los objetivos estratégicos del negocio, tiene baja injerencia en la constitución del portafolio de servicios de IT.;FALSO
+Una de las desventajas centrales de ITIL es que dificulta la comunicación entre TI y las organizaciones a quienes IT provee sus servicios.;FALSO
+El plan de Sistemas de Información y Comunicaciones que desarrolla el CIO no tiene entre sus objetivos la asignación de fondos al área.;FALSO
+El plan de Sistemas de Información y Comunicaciones que desarrolla el CIO no tiene entre sus objetivos la asignación de fondos al área.;FALSO
+El plan de Sistemas de Información y Comunicaciones que desarrolla el CIO tiene entre sus objetivos principales la maximización del desempeño informático de la organización y la asignación de fondos al área.;VERDADERO
+El plan de Sistemas de Información y Comunicaciones que desarrolla el CIO tiene entre sus objetivos principales la maximización del desempeño informático de la organización y la asignación de fondos al área.;VERDADERO
+"En una compañía cuyas ventas se realizan 100% vía Internet, el ""upgrade del servidor web"" para mejorar su disponibilidad, es una acción que puede considerarse estratégicamente alineada.";VERDADERO
+"En una organización cuya estrategia de negocios descansa sobre ""el liderazgo en costos"", la implantación de un sistema de manejo de flotas para optimizar los recorridos, puede considerarse ""alineada estratégicamente"".";VERDADERO
+"En una organización dedicada a la distribución y cuya estrategia de negocios se base en ""liderazgo en costos"", una VPN sobre Internet que le permita a los empleados acceder a los sistemas, puede considerarse ""alineada estratégicamente"".";FALSO
+La arquitectura y el plan de las aplicaciones a desplegar debería depender de la infraestructura, ya que la base instalada es determinante.;FALSO
+La arquitectura y el plan de las aplicaciones a desplegar no debería depender de la infraestructura, sino ser un determinante de esta última.;VERDADERO
+La selección de acciones a ejecutar como parte del Plan de TIC, típicamente demanda de una análisis bidimensional económico-estratégico.;VERDADERO
+Las TIC no solo deben alinearse a la estrategia de la organización sino que pueden modificarla. Es allí cuando el área de TIC aporta su mayor valor a la organización.;VERDADERO
+"Existen diferentes soluciones consideradas las ""mejores prácticas"" según el contexto del que se hable; en lo referente a la Administración, existen mejores prácticas para los diferentes procesos de la cadena de valor.";VERDADERO
+"La aplicación de las ""mejores prácticas"" minimiza la productividad del recurso humano, maximizando los costos asociados.";FALSO
+La aplicación de las mejores prácticas asegura un buen equilibrio entre operatividad y control para un dado proceso en una determinada industria o segmento de negocio.;VERDADERO
+"La implantación de ""las mejores prácticas"" nunca podría afectar negativamente la competitividad de la organización.";FALSO
+"La implantación de ""las mejores prácticas"" puede en algunos casos destruir elementos centrales de la competitividad de una organización, situación que debe ser cuidadosamente analizada.";VERDADERO
+Las mejores prácticas son los mejores procesos, o los procedimientos más adecuados para una determinada problemática.;VERDADERO
+"Una organización que opera con procesos basados en ""las mejores prácticas"" no se ve favorecida a la hora de implantar sistemas informáticos integrados de gestión.";FALSO
+"Una organización que opera con procesos basados en ""las mejores prácticas"" puede incorporar sistemas informáticos integrados de gestión con menor esfuerzo.";VERDADERO
+Aproximadamente un 66% de los proyectos de desarrollo de software, se completan dentro los parámetros de funcionalidad, costo y plazos de entrega planeados.;FALSO
+El TCO es un indicador muy útil para comparar las funcionalidades de dos o más aplicaciones alternativas.;FALSO
+La construcción de matrices ponderadas es una técnica muy útil a la hora de comparar las características de dos o más aplicaciones alternativas;VERDADERO
+La decisión de desarrollar una aplicación debe, en general, ser precedida de un análisis de los productos comerciales existentes, y del hecho que ninguno resuelva las funcionalidades críticas requeridas.;VERDADERO
+La decisión de desarrollar una aplicación no debería supeditarse exclusivamente a un análisis funcional de los productos comerciales existentes, sino que la misma puede ser de tipo estratégica.;VERDADERO
+La selección de las aplicaciones o programas que mejor se adecuen a las necesidades de la organización, es una responsabilidad exclusiva del CIO.;FALSO
+La selección de las aplicaciones o programas que mejor se adecuen a las necesidades de la organización, es una responsabilidad primaria pero no exclusiva del CIO.;VERDADERO
+"Solo un 16% de los proyectos de desarrollo de software, se completan dentro los parámetros de funcionalidad, costo y plazos de entrega planeados; situación que amerita el considerar las alternativas ya desarrolladas existentes.";VERDADERO
+"El CIO no debe tener un rol activo en la selección de los posibles proveedores de una solución basada en TIC, ya que ese es el rol primario de ""Compras"".";FALSO
+El CIO, o quién este delegue, debe tener un rol activo en la selección de los posibles proveedores de una solución basada en TIC.;VERDADERO
+El que un proveedor sea global, no necesariamente significa que la experiencia sea trasladable al ámbito local.;VERDADERO
+El que un proveedor sea global, significa que poseerá amplia experiencia trasladable al ámbito local.;FALSO
+El sourcing, decisión de hacer o comprar, es una responsabilidad primaria pero no exclusiva del CIO;VERDADERO
+El sourcing, decisión de hacer o comprar, es una responsabilidad primaria y exclusiva del CIO;FALSO
+La cobertura geográfica de un proveedor es de valor cuando el proyecto involucra múltiples localidades donde el proveedor tiene presencia.;VERDADERO
+La cobertura geográfica de un proveedor es de valor, ya que las experiencias en un país son siempre trasladables a otros.;FALSO
+La cobertura geográfica de un proveedor no siempre es de valor, ya que las experiencias en un país no necesariamente son trasladables a otros.;VERDADERO
+Los proveedores con certificaciones en ciertas tecnologías, normalmente cuentan con mejores términos comerciales y soporte que sus competidores, en las tecnologías/productos en los que se han especializado.;VERDADERO
+Muchos proveedores globales tanto de equipamiento como de aplicaciones, suelen atender a los clientes más pequeños a través de organizaciones conocidas genéricamente como canales: VAR, Resellers, etc.;VERDADERO
+Debido a las economías de escala logradas por el fabricante de sistemas estándares, y las múltiples organizaciones/necesidades comprendidas, estos sistemas suelen incorporar constantemente mejoras a su robustez y funcionalidad, con el paso del tiempo.;VERDADERO
+Entre los efectos no deseados de los sistemas estándares, se encuentra el hecho que la organización generalmente debe adaptar sus procesos/forma de trabajo a los procesos incluidos dentro del nuevo sistema, o realizar importantes adecuaciones al software.;VERDADERO
+Los sistemas estándares encuentran un campo de aplicación especialmente favorable en aquellas organizaciones con proceso de negocio muy únicos/específicos.;FALSO
+Los sistemas estándares pueden incluir la posibilidad de ser parametrizados para responder a características específicas de la organización.;VERDADERO
+Los sistemas estándares rara vez incorporan las mejores prácticas, ya que las mismas varían de empresa a empresa.;FALSO
+"Los sistemas estándares son programas estandarizados, y cuya aplicación está pensada para un amplio número de organizaciones. Algunos no ofrecen ningún tipo de adaptación; otros permiten una amplia parametrización, y por último, los más elaborados, incluyen herramientas de desarrollo para realizar adaptaciones mayores.";VERDADERO
+Los sistemas estándares suelen incluir las mejores prácticas de una dada industria/actividad, y suelen contar con una base instalada amplia que minimiza la posibilidad de errores y aseguran la continuidad del soporte.;VERDADERO
+Un beneficio no menor de los sistemas estándares, es su disponibilidad (sin tiempos de desarrollo), y los menores costos comparados con una solución a medida o un desarrollo propio.;VERDADERO
+BYOD no trae nuevos desafíos y costos para las organizaciones ya que tanto los costos como la responsabilidad por la seguridad recaen en los propietarios.;FALSO
+BYOD trae nuevos desafíos y costos para las organizaciones al tener que gestionar la seguridad de la información accedida y almacenada en dispositivos heterogéneos donde también reside información personal.;VERDADERO
+Con BYOD los colaboradores de una dada organización no necesitan llevar y saber utilizar dos dispositivos, típicamente diferentes, para acceder a recursos corporativos y personales.;VERDADERO
+En algunas implantaciones de programas para favorecer BYOD, las organizaciones pueden hacerse cargo de parte o todo de los gastos asociados al dispositivo.;VERDADERO
+"Las siglas BYOD hacen referencia a los equipos incorporados al ámbito laboral y/o a los procesos de negocio, traídos por los propios empleados. Del inglés ""Bring Your Own Device"".";VERDADERO
+"Las siglas BYOD hacen referencia a los nuevos equipos: smartphones, iPads, etc. incorporados al ámbito laboral y/o los procesos de negocio. Del inglés ""Better Young than Old Devices"".";FALSO
+El Manual de Teletrabajo contiene definiciones que ayudan a entender conceptos básicos sobre teletrabajo, accidente laboral y enfermedad profesional.;VERDADERO
+El Manual de Teletrabajo no contiene definiciones sobre conceptos tales como accidente laboral o enfermedad profesional.;FALSO
+El Manual de Teletrabajo provee las herramientas necesarias para que el trabajador pueda evaluar si las condiciones de trabajo donde desarrolla su tarea son las pertinentes para preservar su salud y evitar riesgos.;VERDADERO
+El Manual de Teletrabajo provee las normas necesarias a cumplir para garantizar las condiciones de trabajo donde el teletrabajador desarrolla su tarea.;FALSO
+El Manual de Teletrabajo tiene como objetivo explicar las medidas destinadas a evitar las enfermedades profesionales y accidentes de trabajo, de acuerdo a las características y riesgos de las tareas a realizar.;VERDADERO
+El Manual de Teletrabajo tiene como objetivo regular las medidas destinadas a evitar las enfermedades profesionales y accidentes de trabajo, de acuerdo a las características y riesgos de las tareas a realizar.;FALSO
+"Desde el punto de vista económico de la empresa, las ventajas del Teletrabajo son: más vida familiar; menor estrés; más tiempo libre, horario flexible y mejor calidad de vida.";FALSO
+El Teletrabajo es una herramienta esencial para mejorar los procesos de negocio de la organización.;FALSO
+"El Teletrabajo es una herramienta útil para mejorar el ejercicio de cualquier profesión, sustituyendo ""obligación"" por ""responsabilidad"". Es una modalidad más racional de trabajo, que permite recuperar la profesionalidad y la especialización en el trabajo autónomo e independiente.";VERDADERO
+El Teletrabajo hace referencia al trabajo de oficina relacionado al tele-marketing o venta telefónica.;FALSO
+El Teletrabajo se refiere al trabajo a distancia lejos del centro de trabajo físico habitual. Generalmente se utiliza en los trabajos que no requieran de la presencia del trabajador en la oficina.;VERDADERO
+En general las iniciativas de Teletrabajo presentan un bajo nivel de riesgo, si se contemplan apropiadamente aspectos propios del resguardo de la información y la productividad.;VERDADERO
+Entre los beneficios del Teletrabajo para la empresa podemos encontrar: menores costos edilicios, menos problemas de convivencia entre empleados, eliminación de pérdida de horas laborables por problemas de transporte, facilidad de expansión geográfica y mejor aprovechamiento de los puestos de trabajo, que pueden ser compartidos por distintos trabajadores.;VERDADERO
+Para la implementación del Teletrabajo, se debe plantear una nueva concepción de la organización social y laboral. A su vez la organización debe contar con la tecnología adecuada para llevar a cabo esta modalidad.;VERDADERO
+"El área de TIC demanda de perfiles muy disímiles. Algunos de ellos con predominio técnico: DBA, Administradores de Redes, Programadores; otros, con orientación al negocio: Analistas Funcionales, de Procesos; y con orientación a la gestión: Gerentes de Proyectos, etc.";VERDADERO
+El área de TIC demanda de perfiles similares, lo cual facilita la reasignación de responsabilidades dentro del área.;FALSO
+"En general, el rol del ""Líder de Proyecto"", es de los más expuestos y también el que conduce en forma más directa a posiciones gerenciales.";VERDADERO
+La distinción entre los distintos perfiles requeridos en el área de TIC es tan clara que típicamente es percibida con claridad por el resto de la organización.;FALSO
+La distinción entre los distintos perfiles requeridos en el área de TIC suele no ser percibida con claridad por el resto de la organización.;VERDADERO
+La seguridad informática es responsabilidad indiscutible de CIO quién debe contar con los recursos necesarios para su instrumentación.;VERDADERO
+"Las estructuras típicas del área de TIC se basan en agrupamientos funcionales: analistas, programadores, administradores, etc.; aunque también es común que existan profesionales asignados específicamente a ciertas áreas de la organización y que se constituyan equipos ad-hoc para cada proyecto.";VERDADERO
+Las organizaciones multinacionales suelen desarrollar estructuras matriciales con un doble reporte: uno funcional o vertical y otro local, típicamente con necesidades y objetivos diferentes.;VERDADERO
+Las organizaciones multinacionales suelen desarrollar estructuras matriciales con un doble reporte: uno funcional o vertical y otro local, típicamente con necesidades y objetivos perfectamente alineados.;FALSO
+Cualquier cambio que deba realizarse al alcance inicial del proyecto, puede realizarse mediante un acuerdo verbal entre los representantes de TIC y los usuarios.;FALSO
+Cualquier cambio que deba realizarse al alcance inicial del proyecto, sólo puede realizarse siguiendo el procedimiento de gestión de cambios donde se determina y aprueba el impacto al cronograma y los costos.;VERDADERO
+El número de tareas críticas, y su proporción sobre el total de las tareas, es un indicador de problemas o desviaciones en un proyecto dado.;FALSO
+El reemplazo de usuarios claves durante la marcha del proyecto, constituye un serio expuesto para su éxito.;VERDADERO
+El reemplazo de usuarios claves durante la marcha del proyecto, no constituye un expuesto para su éxito.;FALSO
+Los acrónimos EDT y WBS hacen referencia a conceptos antagónicos.;FALSO
+Los acrónimos EDT y WBS hacen referencia al mismo concepto.;VERDADERO
+Muchos proyectos, en especial los de menor envergadura, pueden gestionarse con un diagrama de Gantt, siendo el diagrama de Pert un complemento no mandatorio;VERDADERO
+Muchos proyectos, en especial los de menor envergadura, pueden gestionarse con un diagrama de Gantt, siendo el diagrama de Pert un complemento no mandatorio.;VERDADERO
+Ni el número de tareas críticas, ni su proporción sobre el total de las tareas, es per se un indicador de problemas o desviaciones en un proyecto dado.;VERDADERO
+Se entiende por EDT, Estructura de Descomposición del Trabajo, a una estructuración jerárquica de las distrintas actividades que forman parte de un proyecto;VERDADERO
+Una correcta gestión de proyectos, incluso de proyectos menores, demanda de diagramas de Gantt y Pert.;FALSO
+El PMI, Project Management Institute, ofrece programas de certificación en Gestión de Proyectos.;VERDADERO
+El PMI, Project Model Interactive, es una de las técnicas de Gestión de Proyectos más difundidas.;FALSO
+La gestión de proyectos es la aplicación de conocimientos, herramientas y técnicas sobre las actividades que conforman un proyecto para asegurar que cumpla con sus metas.;VERDADERO
+La Gestión de Proyectos facilita la comunicación efectiva entre todos los interesados, y funciona como respaldo para facilitar la labor del líder del Proyectos.;VERDADERO
+La gestión de proyectos no incluye el control de los costos y/o gastos del mismo, tarea esta del área financiera.;FALSO
+La Gestión de Proyectos no necesariamente facilita la comunicación entre todos los interesados, ya que la misma depende en mayor medida de las herramientas de colaboración disponibles.;FALSO
+Una apropiada Gestión de Proyectos asegura que el mismo cubrirá en tiempo y forma la necesidad que lo originó, minimizando los desvíos.;VERDADERO
+Una apropiada Gestión de Proyectos no asegura que el mismo cubrirá en tiempo y forma la necesidad que lo originó.;FALSO
+Con DoS, Defence Outer System, se identifica una técnica utilizada para segurizar el posible acceso a los sistemas de la organización desde el exterior de la miama.;FALSO
+El tiempo que una sesión permanece activa sin actividad y las características mínimas de las contraseñas, no son de las temáticas abordadas desde Seguridad Informática, sino desde operaciones.;FALSO
+El tiempo que una sesión permanece activa sin actividad y las características mínimas de las contraseñas, son algunas de las temáticas abordadas desde Seguridad Informática.;VERDADERO
+Es prácticamente imposible desviar y/o reducir potenciales intrusiones y amenazas a los sistemas de información.;FALSO
+La implementación de técnicas de Seguridad Informática en forma sesgada puede introducir una sobrecarga en el ritmo habitual de trabajo de toda la organización, exigiéndose un esfuerzo adicional.;VERDADERO
+La implementación de técnicas de Seguridad Informática en general no tiene impactos operacionales ni genera trabajo adicional para los usuarios.;FALSO
+La Seguridad Informática se basa en la implementación de técnicas y aplicaciones con el objetivo de asegurar la integridad, privacidad, confidencialidad y la disponibilidad de los activos pertenecientes a los Sistemas de Información contra amenazas externas únicamente.;FALSO
+La Seguridad Informática se basa en la implementación de técnicas y aplicaciones con el objetivo de asegurar la integridad, privacidad, confidencialidad y la disponibilidad de los activos pertenecientes a los Sistemas de Información contra amenazas internas y externas.;VERDADERO
+Una adecuada implementación de Seguridad Informática, puede desviar y reducir potenciales intrusiones y amenazas a los sistemas de información.;VERDADERO
+El cambio asociado a un nuevo sistema informático muchas veces incluye, aunque no sea explícito, el cambio de los procesos de negocio, y es allí donde radica la mayor dificultad para realizar una transición.;VERDADERO
+El fenómeno de la resistencia al cambio está presente tanto en personas jóvenes como mayores, de organismos públicos y empresas privadas.;VERDADERO
+Existen diferentes metodologías o modelos para la Gestión del Cambio Una de ellas, ADKAR, suguiere los siguientes pasos: análisis, desarrollo, capacitación, aseguramiento y recompensa;FALSO
+Existen diferentes metodologías o modelos para la Gestión del Cambio. Una de ellas suguiere un abordaje según los siguientes conceptos: reingeniería de los procesos, toma de conciencia, conocimiento, aptitud y refuerzo.;FALSO
+Existen diferentes metodologías o modelos para la Gestión del Cambio. Una de ellas suguiere un abordaje según los siguientes conceptos: toma de conciencia, deseo, conocimiento, aptitud y refuerzo.;VERDADERO
+Existen diferentes metodologías o modelos para la Gestión del Cambio. Una de ellas suguiere un abordaje según los siguientes conceptos: toma de conciencia, redistribución de poder, conocimiento, aptitud y refuerzo.;FALSO
+Existen diferentes metodologías o modelos para la Gestión del Cambio. Una de ellas, ADKAR, suguiere los siguientes pasos: análisis, desarrollo, capacitación, aseguramiento y recompensa.;FALSO
+Existen diferentes metodologías o modelos para la Gestión del Cambio. Una de ellas, ADKAR, suguiere los siguientes pasos: toma de conciencia, deseo, conocimiento, aptitud y refuerzo.;VERDADERO
+La aceptación de una solución informática depende en gran medida de cómo se haya gestionado su implantación, conjunto de técnicas conocidas como Gestión del Cambio.;VERDADERO
+La aceptación de una solución informática depende en gran medida del tipo de tecnología usada.;FALSO
+La capacitación y la comunicación son elementos accesorios en los procesos de Gestión del Cambio.;FALSO
+La capacitación y la comunicación son elementos centrales en los procesos de Gestión del Cambio.;VERDADERO
+La reingeniería de procesos se focaliza en el rediseño de muy pocos procesos, pero centrales a la competitividad de la organización.;VERDADERO
+Las modificaciones a los procesos de negocio que pueden acompañar a la implantación de un nuevo sistema informático, no suelen ser causas de resistencia al cambio.;FALSO
+Los cambios de procesos que muchas veces acompañan a las soluciones informáticas, conllevan reducciones de discrecionalidad y cambios en la estructura de poder, y son consecuentemente una de las principales causas de la resistencia al cambio.;VERDADERO
+Los cambios de procesos que muchas veces acompañan a las soluciones informáticas, no son las principales causas de la resistencia al cambio.;FALSO
+Los procesos de mejora continua, ofrecen mejoras incrementales pero sustancialmente menores a los procesos de reingeniería.;VERDADERO
+"La creatividad e innovación a su vez requiren distantas instancias o fases. Por ejemplo: cuestionamiento y preparación; incubación e iluminación; y verificación adaptación y difusión.";VERDADERO
+La Gestión de la Innovación es la organización de los recursos, con el fin de aumentar, entre otras, la creación de nuevos conocimientos y la generación de ideas técnicas que permitan obtener nuevos productos, procesos y servicios, o mejorar los existentes.;VERDADERO
+La Gestión de la Innovación es la organización de los recursos, con el fin de aumentar, entre otras, la creación de nuevos conocimientos, y la transferencia a las fases de producción, distribución y uso.;VERDADERO
+La innovación puede concebirse como un proceso donde la organización no puede intervenir activamente.;FALSO
+La innovación puede concebirse como un proceso donde la organización puede intervenir activamente.;VERDADERO
+Los procesos de Gestión de la Innovación, aún cuando sean rigosamente ejecutados, no pueden garantizar resultados económicos.;VERDADERO
+Un poceso de Gestión de la Innovación típico puede incluir los siguientes conceptos: el plan estratégico tecnológico, creatividad e innovación, vigilancia tecnológica, gestión de proyectos tecnológicos y de innovación, la financiación, aseguramiento, explotación, y la gestión del conocimiento.;VERDADERO
+Cuanto más nuevas son las tecnologías y/o las aplicaciones que con ellas se hacen, mayor es el nivel de riesgo involucrado.;VERDADERO
+"El Gartner Group propone un modelo conocido como Hype Cycle para describir la evolución de las nuevas tecnologías en cuanto a su ""disponibilidad"" y al ""nivel de riesgo"".";FALSO
+El Gartner Group propone un modelo conocido como Hype Cycle para describir la evolución de las nuevas tecnologías en cuanto a su visibilidad y al nivel de madurez.;VERDADERO
+El nivel de riesgo involucrado por la aplicación de nuevas tecnologías, debe ser evaluado en función de la aversión/predisposición al mismo, por parte de la organización.;VERDADERO
+La incorporación prematura de tecnologías no maduras, no conlleva un expuesto profesional para el CIO, ya que las organizaciones típicamente aceptan que algunas de las tecnologías implantadas no den los resultados esperados.;FALSO
+La incorporación prematura de tecnologías no maduras, normalmente conlleva mayores costos y un expuesto profesional para el CIO, especialmente si los riesgos no fueron evaluados y aceptados por la dirección.;VERDADERO
+En Argentina existen las Leyes 25.326, 26.338 y 25.922, relacionadas a la Protección de Datos Personales, a los Delitos Informáticos y a la promoción de la Promoción de Industria del Software.;VERDADERO
+En Argentina existen leyes relacionadas a la Protección de Datos Personales y a los Delitos Informáticos pero aún no se ha avanzado con una ley para la Promoción de Industria del Software.;FALSO
+La legislación relativa al uso de las TIC cuenta con amplia jurisprudencia, lo que hace que dichas cuestiones tengan un alto grado certidumbre, minimizando el efecto de la valoración interpretativa por parte de la justicia.;FALSO
+La legislación relativa al uso de las TIC es reciente, no completamente desarrollada y con poca jurisprudencia, lo que hace que dichas cuestiones tengan un alto grado de valoración interpretativa y circunstancial por parte de la justicia.;VERDADERO
+Los convenios de confidencialidad, las normas de conducta comercial, las normas de uso de los sistemas informáticos, etc le proveen a la empresa de un marco para aplicar sanciones, incluso el despido con causa, en caso de incumplimiento por parte del empleado;VERDADERO
+Los convenios de confidencialidad, las normas de conducta comercial, las normas de uso de los sistemas informáticos, etc. son instrumentos ineficaces para aplicar sanciones, en caso de incumplimiento por parte del empleado.;FALSO
+Una determinada persona no puede ser separada de la organización con causa excepto cuando haya infringido alguna ley.;FALSO
+Una determinada persona puede ser separada de la organización con causa por una conducta no ética, aún cuando no haya infringido ninguna ley ni norma interna de la compañía.;FALSO
+Una determinada persona puede ser separada de la organización con causa sólo cuando haya infringido alguna ley o norma interna de la compañía;VERDADERO
+El emprendedurismo es una actividad de riesgo bajo si se realiza una buena planificación.;FALSO
+El emprendedurismo es una actividad de riesgo y no todas las personas se sienten a gusto con ello.;VERDADERO
+En general el 80% de los nuevos emprendimientos sobreviven al año de vida.;FALSO
+En general sólo el 10% de los nuevos emprendimientos sobreviven al año de vida.;VERDADERO
+Existen múltiples fuentes de financiamiento, incluyendo en algunos países ANR, aportes no reembolsables, otorgados por organismos oficiales como estímulo a la actividad.;VERDADERO
+"Las siglas ""3F"" se utilizan para denotar a los Fondos de Inversión de tercera generación.";FALSO
+"Los ANR, aportes no reembolsables, son instrumentos de asistencia financiera otorgados por organismos oficiales en algunos países como estímulo a la actividad del ""emprendedor"".";VERDADERO
+Muchos proyectos se inician con capital aportado por el círculo cercano al emprendedor: familiares, amigos y personas que creen en él.;VERDADERO
+"La sigla ""3F"" se suele utilizar como síntesis de: family, friends and fools.";VERDADERO
+Contrariamente a otras incitativas, no hay efectos colaterales o no deseados asociados a Green IT.;VERDADERO
+El Green IT también implica otros aspectos como la reducción de los componentes nocivos empleados en la fabricación de productos tecnológicos, la capacidad de biodegradación o reciclaje de los mismos, recogiendo o reutilizando las maquinas obsoletas y fomentando políticas de reciclaje en las empresas.;VERDADERO
+Entre los beneficios de Green IT se encuentra el uso eficiente de los recursos computacionales minimizando el impacto ambiental, maximizando su viabilidad económica y asegurando deberes sociales.;VERDADERO
+Entre los efectos no deseados de los GREEN IT, se encuentra el hecho que la organización generalmente debe adaptar sus procesos/forma de trabajo a los procesos incluidos dentro del nuevo sistema, o realizar importantes adecuaciones al software.;FALSO
+Green IT posibilita una mejora de la eficiencia energética en los sistemas TI.;VERDADERO
+Green IT también conocido como Green Computing, es la estrategia del sector ante la situación del calentamiento global o la escasez de energía y su alto costo.;VERDADERO
+Green IT también conocido como Green Computing, es un programa diseñado para difundir los perjuicios del calentamiento global.;FALSO
+GREEN IT tiene como principal objetivo especificar los niveles de servicio compatibles con los estándares de contaminación ambiental.;FALSO
+A diferencia de otras acciones empresariales, el uso de las TIC rara vez pueda apalancar acciones cuya finalidad se encuadre dentro de la RSE.;FALSO
+A través de RSE las organizaciones ayudan a preservar los recursos ambientales y culturales, respetan la diversidad y promueven la reducción de las desigualdades sociales.;VERDADERO
+Como muchas otras acciones empresariales, el uso de las TIC puede apalancar e incluso iniciar acciones cuya finalidad se encuadre dentro de la RSE.;VERDADERO
+El problema de la Brecha Digital es de naturaleza estructural, y las empresas no deberían destinar recursos a su minimización, tarea esta exclusiva de entes gubernamentales.;FALSO
+Iniciativas de Virtualización, Teletrabajo y Desecho apropiado de Residuos Electrónicos, pueden fortalecer las acciones de RSE, y a su vez tener impactos positivos en variables de desempeño organizacional.;VERDADERO
+Iniciativas de Virtualización, Teletrabajo, desecho apropiado de residuos electrónicos, Gestión responsable del Cambio Organizacional, etc. pueden fortalecer las acciones de RSE, aunque normalmente implican mayores costos.;FALSO
+Iniciativas tendientes a reducir la Brecha Digital y la Gestión responsable del Cambio Organizacional, pueden fortalecer las acciones de RSE, y a su vez tener impactos positivos en variables de desempeño organizacional.;VERDADERO
+RSE es una forma de gestión que se define por la relación ética de la empresa y el establecimiento de metas empresariales compatibles con el desarrollo sostenible de la sociedad.;VERDADERO
+ADVA, la Asociación de Desarrolladores de Videojuegos Argentina es una entidad sin fines de lucro compuesta por empresas dedicadas a la creación de videojuegos.;VERDADERO
+CABASE, la Cámara Argentina de Internet reúne a empresas usuarias y emprendedoras del comercio y los negocios por Internet y tiene como objeto lograr que la Economía Digital se constituya en una eficaz herramienta para el desarrollo social y económico de la República Argentina y sus economías regionales.;FALSO
+CABASE, la Cámara Argentina de Internet reúne a las empresas proveedoras de Servicios de Acceso a Internet, Telefonía, Soluciones de Datacenter y contenidos Online, entre otras.;VERDADERO
+CADIEEL, la Cámara Argentina de Industrias Electrónicas, Electromecánicas y Luminotécnica representa a más de 3000 empresas de la industria electro-electrónica que emplean a más de treinta mil personas y facturan anualmente más de 3000 millones de dólares.;VERDADERO
+CESSI es la Cámara de Informática y Comunicaciones de la República Argentina, nuclea compañías de diferentes perfiles, pequeñas, medianas y grandes, de origen nacional y extranjero.;FALSO
+La Cámara de Empresas de Software y Servicios Informáticos, CICOMRA, organización sin fines de lucro, nuclea a grandes, medianos, pequeñas empresas y entidades regionales del sector informático, dedicadas al desarrollo, producción, comercialización e implementación de software y todas las variantes de servicios.;FALSO
