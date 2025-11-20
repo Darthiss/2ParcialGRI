@@ -68,7 +68,7 @@ UNIDAD;TEMA;AFIRMACION;RESPUESTA
 Este proyecto es **gratuito para uso personal, educativo y académico**.  
 **NO está permitido su uso comercial** ni vender el contenido, el código o el sitio bajo ninguna modalidad.
 
-Licencia recomendada:  
+Licencia:  
 **Creative Commons BY-NC 4.0 – Atribución – No Comercial**  
 https://creativecommons.org/licenses/by-nc/4.0/
 
@@ -78,5 +78,4 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 Proyecto creado por **Lucas Ariel Millán**,  
 Lic. en Sistemas de Información de las Organizaciones – FCE, UBA.
-
 Con asistencia y cariño técnico de **ChatGPT** 🧡
