@@ -1,23 +1,23 @@
 ﻿UNIDAD;TEMA;AFIRMACION;RESPUESTA
-1;MEDITACIÓN DE LA TÉCNICA;"Citándolo a Keynes, Ortega y Gasset plantea que al paso actual, dicho esto en las primeras décadas de los 1900, ""la técnica permitirá que el hombre sólo tenga que trabajar una o dos horas por día"".";VERDADERO
-1;MEDITACIÓN DE LA TÉCNICA;"Citándolo a Marx, Ortega y Gasset plantea que al paso actual, dicho esto en las primeras décadas del siglo pasado, ""la técnica permitirá que el hombre sólo tenga que trabajar una o dos horas por día"".";FALSO
-1;MEDITACIÓN DE LA TÉCNICA;"Ortega y Gasset define ""actos técnicos"" como aquellos que permiten: asegurar satisfacer necesidades elementales con minimo esfuerzo, minimizando el efecto de crear posibilidades completamente nuevas.";FALSO
-1;MEDITACIÓN DE LA TÉCNICA;"Ortega y Gasset define ""actos técnicos"" como aquellos que permiten: asegurar satisfacer necesidades elementales, asegurar satisfacer esas necesidades con mínimo esfuerzo, y crear posibilidades completamente nuevas.";VERDADERO
+1;MEDITACIÓN DE LA TÉCNICA;Citándolo a Keynes, Ortega y Gasset plantea que al paso actual, dicho esto en las primeras décadas de los 1900, la técnica permitirá que el hombre sólo tenga que trabajar una o dos horas por día.;VERDADERO
+1;MEDITACIÓN DE LA TÉCNICA;Citándolo a Marx, Ortega y Gasset plantea que al paso actual, dicho esto en las primeras décadas del siglo pasado, la técnica permitirá que el hombre sólo tenga que trabajar una o dos horas por día.;FALSO
+1;MEDITACIÓN DE LA TÉCNICA;Ortega y Gasset define actos técnicos como aquellos que permiten: asegurar satisfacer necesidades elementales con minimo esfuerzo, minimizando el efecto de crear posibilidades completamente nuevas.;FALSO
+1;MEDITACIÓN DE LA TÉCNICA;Ortega y Gasset define actos técnicos como aquellos que permiten: asegurar satisfacer necesidades elementales, asegurar satisfacer esas necesidades con mínimo esfuerzo, y crear posibilidades completamente nuevas.;VERDADERO
 1;MEDITACIÓN DE LA TÉCNICA;Ortega y Gasset no considera relevante qué ocurre con el esfuerzo ahorrado producto de la técnica.;FALSO
 1;MEDITACIÓN DE LA TÉCNICA;Ortega y Gasset se pregunta: ¿A dónde va a parar todo ese esfuerzo ahorrado y que queda vacante?;VERDADERO
 2;CRM;Algunos sistemas CRM comerciales son SAP CRM, Oracle Siebel CRM, SugarCRM, Aplicor CRM, Tango Gestión de Relaciones con Clientes, etc.;VERDADERO
 2;CRM;CRM, es esencialmente un modelo de gestión de las organizaciones que toma como base un alto relacionamiento con los clientes.;VERDADERO
 2;CRM;CRM, es un modelo de gestión basado en un alto relacionamiento con los clientes.;VERDADERO
 2;CRM;Dentro de los principales proveedores de CRM se encuentran: i2technologies, Ariba, Commerce One, Manugistics, Free Markets, Sanquest, etc.;FALSO
-2;CRM;"El acrónimo ""CRM"" proviene de Cluster Remote Management y se refiere a sistemas para la gestión de clientes.";FALSO
-2;CRM;"El acrónimo ""CRM"" proviene de Customer Relationship Management y se refiere a sistemas para la gestión de clientes.";VERDADERO
+2;CRM;El acrónimo CRM proviene de Cluster Remote Management y se refiere a sistemas para la gestión de clientes.;FALSO
+2;CRM;El acrónimo CRM proviene de Customer Relationship Management y se refiere a sistemas para la gestión de clientes.;VERDADERO
 2;CRM;En general, el período de repago de la inversión de un CRM se logra en el quinto año.;FALSO
 2;CRM;En general, el período de repago de la inversión de un CRM se logra entre el segundo y el tercer año.;VERDADERO
 2;CRM;En general, no son prerrequisitos para implantar un CRM el ya contar con una solución del tipo ERP y procesos de negocio estabilizados.;FALSO
 2;CRM;En general, son prerrequisitos para implantar un CRM el ya contar con una solución del tipo ERP y procesos de negocio estabilizados.;VERDADERO
 2;CRM;Los CRM son sistemas integrados para la gestión empresarial, los cuales fundamentalmente mejoran la productividad de las áreas de administración y finanzas.;FALSO
 2;CRM;Los CRM son sistemas que mejoran la productividad de las áreas de logística, compras, etc.;FALSO
-2;CRM;"Los sistemas ""CRM"" permiten a la organización incrementar su rentabilidad y diferenciarse de la competencia gestionando todos los aspectos de la relación con los clientes.";VERDADERO
+2;CRM;Los sistemas CRM permiten a la organización incrementar su rentabilidad y diferenciarse de la competencia gestionando todos los aspectos de la relación con los clientes.;VERDADERO
 2;CRM;Los sistemas CRM le brindan a la organización la ventaja de enfocar su atención en los clientes que les resulten económicamente más convenientes.;VERDADERO
 2;CRM;Los sistemas CRM permiten mejorar los pronósticos de ventas, realizar campañas de marketing muy direccionadas, reasignar recursos en función de los resultados, etc.;VERDADERO
 2;ERP;Algunos de los proveedores de ERP son SAP, Oracle, The Sage Group, Microsoft, Plex Systems, etc.;VERDADERO
@@ -31,7 +31,7 @@
 2;ERP;Las implantación de sistemas ERP no involucran riesgo alguno. El cambio de sistema, es precedido por un período (paralelo) en el cual el nuevo y el viejo sistema conviven.;FALSO
 2;ERP;Los ERP permiten la simplificación de la infraestructura de sistemas evitando múltiples aplicaciones y bases de datos.;VERDADERO
 2;ERP;Los ERP son sistemas integrados para la gestión empresarial, los cuales fundamentalmente mejoran la productividad del recurso humano.;VERDADERO
-2;ERP;"Los sistemas ""ERP"" en general no proveen mejoras operacionales significativas en los circuitos administrativos.";FALSO
+2;ERP;Los sistemas ERP en general no proveen mejoras operacionales significativas en los circuitos administrativos.;FALSO
 2;ERP;Los sistemas ERP fundamentalmente proveen mejoras operacionales en los circuitos administrativos.;VERDADERO
 3;BPM;Business Process Management es un conjunto de métodos, herramientas y tecnologías que engloba a todos los procesos integrantes del ciclo de vida de un negocio.;VERDADERO
 3;BPM;Dentro de los productos más representativos de los sistemas BPM se encuentran SAP NetWeaver BPM, Oracle BPM Suite, IBM BPM Suite, Polymita BPM, etc.;VERDADERO
@@ -39,10 +39,10 @@
 3;BPM;La arquitectura tecnológica de BPM no suele incluir SOA.;FALSO
 3;BPM;La arquitectura tecnológica de BPM suele incluir SOA para facilitar la comunicación y movilidad de los datos entre diferentes aplicaciones de TI.;VERDADERO
 3;BPM;Los riesgos asociados a la implantación de sistemas BPM suelen estar asociados a la falta de disponibilidad tecnológica.;FALSO
-3;BPM;"Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral 
-de la organización y al cambio cultural necesario.";VERDADERO
+3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral 
+de la organización y al cambio cultural necesario.;VERDADERO
 3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral de la organización y al cambio cultural necesario.;VERDADERO
-3;BPM;"Los sistemas ""BPM"" permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.";FALSO
+3;BPM;Los sistemas BPM permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.;FALSO
 3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico consiste en el uso de las tecnologias propias de Internet en los procesos internos del gobierno para hacerlos más eficientes y/o brindar mejores servicios a los ciudadanos.;VERDADERO
 3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico no son conceptos similares, sino claramente diferenciados.;FALSO
 3;EGOVERNMENT;Entre los beneficios de las iniciativas de e-Government tipicamente se encuentra un mayor control de las obligaciones de los ciudadanos;VERDADERO
@@ -60,8 +60,8 @@ de la organización y al cambio cultural necesario.";VERDADERO
 3;GDS;En general, la implantación de sistemas GDS tienen un tiempo importante de analisis de oferta y demanda, por lo que hacer una reserva puede tardarse días.;FALSO
 3;GDS;Los GDS, Global Distribution Systems, son sistemas utilizados fundamentalmente por agencias de viajes para reservar y comercializar pasajes aéreos.;VERDADERO
 3;GDS;Los GDS, Ground Distribution Systems, son sistemas utilizados fundamentalmente por agencias de viajes para reservar y comercializar pasajes.;FALSO
-3;GDS;"Los sistemas ""GDS"", en general, permiten interactuar con los sistemas de múltiples aerolíneas y determinar disponibilidades, precios, etc.";VERDADERO
-3;GDS;"Los sistemas ""GDS"", son sistemas cerrados que muestran la disponibilidad, precios, etc de una aerolinea en particular.";FALSO
+3;GDS;Los sistemas GDS, en general, permiten interactuar con los sistemas de múltiples aerolíneas y determinar disponibilidades, precios, etc.;VERDADERO
+3;GDS;Los sistemas GDS, son sistemas cerrados que muestran la disponibilidad, precios, etc de una aerolinea en particular.;FALSO
 3;GDS;Los sistemas GDS pueden incluir criterios de priorización y ordenamiento que favorezcan una oferta en desmedro de otra, al igual que ocurre con los buscadores web.;VERDADERO
 3;GIS;En general, la implantación de sistemas GIS limita la gestión de los registros geográficos, ya que combina técnicas cartográficas y de base de datos.;FALSO
 3;GIS;En general, la implantación de sistemas GIS permiten una mejor gestión de los registros geográficos, ya que combina técnicas cartográficas y de base de datos.;VERDADERO
@@ -71,26 +71,26 @@ de la organización y al cambio cultural necesario.";VERDADERO
 3;GIS;Los sistemas GISs son sólo aplicables a logística de distribución, ya que, por ejemplo, permiten optimizar recorridos con la consecuente reducción de costos operacionales.;FALSO
 3;GIS;Los sistemas GISs tienen aplicación en múltiples áreas. En logística de distribución por ejemplo, permiten optimizar recorridos con la consecuente reducción de costos operacionales.;VERDADERO
 3;HCM;Los HCMs, por ejemplo, permiten llevar un listado de ofertas de trabajo y herramientas para la selección del personal. También incluyen la definición la de estructura de la empresa, la gestión planes de carrera y sucesiones, y simulación de masa salarial.;VERDADERO
-3;HCM;"Los principales beneficios de los sistemas de HCM son el aumentar la productividad y la eficacia operativa del personal de RRHH; la centralización de procesos de RRHH y su utilización en relación a capacitación, entrenamiento y conocimiento de habilidades del personal.";VERDADERO
+3;HCM;Los principales beneficios de los sistemas de HCM son el aumentar la productividad y la eficacia operativa del personal de RRHH; la centralización de procesos de RRHH y su utilización en relación a capacitación, entrenamiento y conocimiento de habilidades del personal.;VERDADERO
 3;HCM;Los sistemas de HCM, tienen su principal área de aplicación en Logística y permiten optimizar la cadena de valor.;FALSO
-3;HCM;"Otro beneficio interesante de los sistemas de HCM es la posibilidad del ""autoservicio"" permitiendo que los propios empleados realicen las actualizaciones relativas a nacimientos, capacitación, etc. dando una mayor agilidad en el procesamiento y menores costos.";VERDADERO
+3;HCM;Otro beneficio interesante de los sistemas de HCM es la posibilidad del autoservicio permitiendo que los propios empleados realicen las actualizaciones relativas a nacimientos, capacitación, etc. dando una mayor agilidad en el procesamiento y menores costos.;VERDADERO
 3;HCM;Un sistema de gestión de capital humano, HCM, es una herramienta destinada a facilitar el trabajo del área de recursos humanos concentrando información relevante del personal y proporcionando una plataforma para alinear los procesos del área con los objetivos de la organización.;VERDADERO
 3;HCM;Un típico efecto no deseado de los sistemas de HCM está asociado a una posible despersonalización de la relación con el empleado, la cuál podría quedar sesgada hacia aspectos únicamente cuantitativos y/o tipificados.;VERDADERO
 3;HCM;Uno de los beneficios de los sistemas de HCM está asociado a que la relación con el empleados se basa exclusivamente en aspectos cuantitativos y/o tipificados, evitando las subjetividades.;FALSO
-3;HCM;"Uno de los efectos no deseados de los sistemas de HCM está asociado al uso del ""autoservicio"" que permite que los propios empleados realicen las actualizaciones relativas a nacimientos, capacitación, etc. con la consecuente pérdida de control.";FALSO
+3;HCM;Uno de los efectos no deseados de los sistemas de HCM está asociado al uso del autoservicio que permite que los propios empleados realicen las actualizaciones relativas a nacimientos, capacitación, etc. con la consecuente pérdida de control.;FALSO
 3;SCM;La elección del sistema de SCM queda en gran medida determinada por el tipo de servidores elegidos.;FALSO
 3;SCM;La tecnología empleada por los SCM queda en gran medida determinada por el ERP utilizado.;VERDADERO
 3;SCM;Las implantación de sistemas SCM no involucran riesgo alguno, siendo sistemas naturalmente aceptado por los usuarios.;FALSO
-3;SCM;"Los sistemas ""SCM"" están fundamentalmente orientados a la gestión de la cartera de clientes.";FALSO
-3;SCM;"Los sistemas ""SCM"" permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.";VERDADERO
+3;SCM;Los sistemas SCM están fundamentalmente orientados a la gestión de la cartera de clientes.;FALSO
+3;SCM;Los sistemas SCM permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.;VERDADERO
 3;SCM;Los sistemas de SCM, Schedule Checking Monitor, constituyen una respuesta a los problemas de complejidad y escala de la cadena de suministro.;FALSO
 3;SCM;Los sistemas de SCM, Supply Chain Management, constituyen una respuesta a los problemas de complejidad y escala de la cadena de suministro.;VERDADERO
 3;SCM;Los sistemas de SCM, Supply Chain Management, son sistemas que mejoran la productividad de las áreas de logística, compras, etc.;VERDADERO
 3;SCM;Uno de los riesgos de SCM está asociados a la resistencia al cambio producto de la pérdida de discrecionalidad.;VERDADERO
 4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados a la incapacidad de determinar la veracidad de los resultados estadísticos.;FALSO
 4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados a la manipulación estadística de los resultados.;VERDADERO
-4;BI;"Alguno de los efectos no deseados de los sistemas de BI están asociados la incapacidad de 
-determinar la veracidad de los resultados estadísticos.";FALSO
+4;BI;Alguno de los efectos no deseados de los sistemas de BI están asociados la incapacidad de 
+determinar la veracidad de los resultados estadísticos.;FALSO
 4;BI;Business Intelligence es un conjunto de métodos, herramientas y tecnologías que engloba a todos los procesos integrantes del ciclo de vida de un negocio, y es utilizado para diseñar, representar, analizar y controlar procesos de negocio operacionales.;FALSO
 4;BI;Dentro de los sistemas de BI open source se encuentran: BIRT, JasperReport y Pentaho.;VERDADERO
 4;BI;La implantación de sistemas de BI en PYMES rara vez no resulta exitosa ya que las empresas se acostumbran naturalmente a la gestión en base a resultados.;FALSO
@@ -98,11 +98,11 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 4;BI;Los beneficios de los sistemas de BI provienen fundamentalmente de los ahorros en personal de control de gestión y preparación de informes.;FALSO
 4;BI;Los productos más populares de los sistemas BI incluyen MIC BI, Solvan Business Intelligence Suite, zQ67 Business Intelligence, qCorp Business Enterprise, etc.;FALSO
 4;BI;Los productos más populares de los sistemas BI incluyen Oracle Business Intelligence Suite, Enterprise Edition, SAP Business Intelligence, Microsoft Business Intelligence, iQ4bis Business Intelligence Group etc.;VERDADERO
-4;BI;"Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad tecnológica.";FALSO
+4;BI;Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad tecnológica.;FALSO
 4;BI;Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad tecnológica.;FALSO
 4;BI;Los sistemas de Business Intelligence contienen herramientas que facilitan la explotación y utilización de datos de la organización para la creación del conocimiento organizacional.;VERDADERO
-4;BI;"Se conoce como ""Descubrimiento del Conocimiento"" al proceso de extraer conocimiento útil y comprensible, previamente desconocido, desde grandes cantidades de datos.";VERDADERO
-4;BIG DATA;"Big Data suele caracterizarse por tres atributos: ""volumen"", ""variedad"" y ""velocidad"".";VERDADERO
+4;BI;Se conoce como Descubrimiento del Conocimiento al proceso de extraer conocimiento útil y comprensible, previamente desconocido, desde grandes cantidades de datos.;VERDADERO
+4;BIG DATA;Big Data suele caracterizarse por tres atributos: volumen, variedad y velocidad.;VERDADERO
 4;BIG DATA;El procesamiento de Big Data, típicamente requiere de bases de datos noSQL.;VERDADERO
 4;BIG DATA;El procesamiento de Big Data, típicamente requiere de bases de datos SQL.;FALSO
 4;BIG DATA;Los proyectos de eCommerce, no encuentran en las técnicas de Big Data una herramienta de utilidad práctica.;FALSO
@@ -110,51 +110,51 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 4;BIG DATA;Se entiende por Big Data a un conjunto de técnica tendientes a la toma de decisiones off line que involucran un gran volumen de datos típicamente provenientes de diversas fuentes.;FALSO
 4;BIG DATA;Se entiende por Big Data a un conjunto de técnica tendientes a la toma de decisiones que involucran un gran volumen de datos y que no requieren su procesamiento inmediato.;FALSO
 4;BSC;A diferencia de otros esquemas gerenciales asociado a indicadores, el BSC no es susceptible de errores de consistencia en las mediciones y manipulaciones estadísticas.;FALSO
-4;BSC;"Al estar repartidos los procesos entre los clientes y los servidores, se requiere utilizar servidores de mayor porte para aprovechar la capacidad de procesamiento de los clientes.";FALSO
+4;BSC;Al estar repartidos los procesos entre los clientes y los servidores, se requiere utilizar servidores de mayor porte para aprovechar la capacidad de procesamiento de los clientes.;FALSO
 4;BSC;Como todo esquema gerencial asociado a indicadores, el BSC es susceptible de errores de consistencia en las mediciones y manipulaciones estadísticas.;VERDADERO
-4;BSC;"Con un buen diseño y separación de procesos, puede minimizarse el tráfico de información entre el servidor y los clientes, aunque requiriendo mayor ancho de banda en las redes que vinculan los equipos.";FALSO
+4;BSC;Con un buen diseño y separación de procesos, puede minimizarse el tráfico de información entre el servidor y los clientes, aunque requiriendo mayor ancho de banda en las redes que vinculan los equipos.;FALSO
 4;BSC;Los sistemas BSC se centran casi exclusivamente en indicadores financieros, como el ROE, ROA, etc.;FALSO
 4;BSC;Los sistemas de BSC combinan medidas tradicionales financieras, con factores no financieros. Es balanceado porque busca el balance entre indicadores financieros y no financieros, el corto plazo y el largo plazo, los indicadores de resultados y los de proceso y un balance entre el entorno y el interior de la organización.;VERDADERO
 4;BSC;Los sistemas de BSC permiten el control de los desvíos pero no se articulan con el plan estratégico.;FALSO
-4;BSC;"Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por el plan estratégico, además de permitir el control de los desvíos.";VERDADERO
+4;BSC;Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por el plan estratégico, además de permitir el control de los desvíos.;VERDADERO
 4;BSC;Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por el plan estratégico, además de permitir el control de los desvíos.;VERDADERO
 4;BSC;Los sistemas de BSC, Balanced Scorecard, vinculan el logro de las metas estratégicas a largo plazo con las operaciones diarias de una organización. Permiten agrupar los indicadores por perspectivas, en línea con los conceptos del BSC de Robert Kaplan y David Norton.;VERDADERO
 4;BSC;Los sistemas de BSC, Balanced Scorecard, vinculan el logro de las metas estratégicas a largo plazo con las operaciones diarias de una organización. Permiten agrupar los indicadores por perspectivas, en línea con los conceptos del BSC de Gibson y Nolan.;FALSO
-4;DATA WAREHOUSE;"Almacén de datos o ""data warehouse"" es una colección de datos orientada a un determinado ámbito... integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones...";VERDADERO
-4;DATA WAREHOUSE;"Almacén de datos y ""data warehouse"" no son conceptos equivalentes.";FALSO
-4;DATA WAREHOUSE;"Almacén de datos y ""data warehouse"" son conceptos equivalentes.";VERDADERO
+4;DATA WAREHOUSE;Almacén de datos o data warehouse es una colección de datos orientada a un determinado ámbito... integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones...;VERDADERO
+4;DATA WAREHOUSE;Almacén de datos y data warehouse no son conceptos equivalentes.;FALSO
+4;DATA WAREHOUSE;Almacén de datos y data warehouse son conceptos equivalentes.;VERDADERO
 4;DATA WAREHOUSE;El concepto de Almacén de datos está íntimamente asociado a los sistemas de Supply Change Management.;FALSO
 4;DATA WAREHOUSE;El concepto de Almacén de datos no está directamente asociado a los sistemas de Supply Change Management.;VERDADERO
 4;ETL;Al ejecutarse en los momentos de mayor actividad, los ETL permiten capturar las últimas operaciones realizadas, para su análisis con los Sistemas de Soporte a la Decisión.;FALSO
 4;ETL;Al ejecutarse en los momentos de menor actividad, los ETL permiten minimizar los requerimientos de capacidad de procesamiento de los servidores.;VERDADERO
 4;ETL;Algunas herramientas para la construcción y el mantenimiento de ETL son IBM InfoSphere DataStage, Oracle Warehouse Builder, SAP Business Objetcts Data Integrator.;VERDADERO
 4;ETL;En muchos casos los ETL también mejoran la calidad de los datos. La limpieza y ajuste de datos obtenidos de otros sistemas aumenta el valor de estos para la organización.;VERDADERO
-4;ETL;"Escencialmente los procesos ETL no ofrecen aspectos negativos per se. Sin embargo debe recordarse que la información de los repositorios de información agregada, no se actualiza ""en tiempo real"".";VERDADERO
+4;ETL;Escencialmente los procesos ETL no ofrecen aspectos negativos per se. Sin embargo debe recordarse que la información de los repositorios de información agregada, no se actualiza en tiempo real.;VERDADERO
 4;ETL;Los ETL difícilmente puedan mejorar la calidad de información ya que esta se basa en la calidad de los datos capturados en los sistemas transaccionales.;FALSO
 4;ETL;Los procesos ETL, Extraction, Transformation and Loading o Extracción, Transformación y Carga, típicamente permiten agrupar y transferir datos de los sistemas de soporte a la decisión a las aplicaciones transaccionales.;FALSO
 4;ETL;Una herramienta para contruir ETL se justifica económicamente a través de la productividad en el área de Sistemas de Información para crear y mantener los ETL.;VERDADERO
 4;ETL;Una herramienta para contruir ETL se justifica económicamente a través del aumento de la productividad en las áreas asociadas a la toma de decisión.;FALSO
-4;MINERÍA DE DATOS;"Dónde ubicar un producto en la góndola, dificilmente sea una conclusión que pueda ser resultado de un proceso de ""Minería de Datos"".";FALSO
-4;MINERÍA DE DATOS;"La ""Minería de Datos"" aumenta el conocimiento ""factico"" del negocio, favoreciendo la discusión basada en hechos, y consecuentemente las decisiones mejores informadas.";VERDADERO
-4;MINERÍA DE DATOS;"La ""Mineria de Datos"" permite detectar relaciones que no son evidentes entre distintas variables, permitiendo máximizar las áreas dónde se la aplica: comercial, distribución, recursos humanos, etc.";VERDADERO
-4;MINERÍA DE DATOS;"Para que la ""Minería de datos"" sea exitosa, es imprescindible contar con una gran cantidad de información acumulada a lo largo de un periodo.";VERDADERO
-4;MINERÍA DE DATOS;"Para que la ""Minería de datos"" sea exitosa, no es necesario contar con una gran cantidad de información acumulada a lo largo de un periodo.";FALSO
-4;MINERÍA DE DATOS;"Se entiende por ""Data Minning"" a un tipo de análisis que proporciona apoyo en la toma de decisiones a los directivos y profesionales de negocios a través de un proceso denominado ""Descubrimiento de Conocimiento"".";VERDADERO
-4;MINERÍA DE DATOS;"Ubicar un producto en determinado sector de la góndola, o bien hacer ofertas conjuntas con otros productos, puede ser una conclusión extraida de la ""Minería de Datos"".";VERDADERO
+4;MINERÍA DE DATOS;Dónde ubicar un producto en la góndola, dificilmente sea una conclusión que pueda ser resultado de un proceso de Minería de Datos.;FALSO
+4;MINERÍA DE DATOS;La Minería de Datos aumenta el conocimiento factico del negocio, favoreciendo la discusión basada en hechos, y consecuentemente las decisiones mejores informadas.;VERDADERO
+4;MINERÍA DE DATOS;La Mineria de Datos permite detectar relaciones que no son evidentes entre distintas variables, permitiendo máximizar las áreas dónde se la aplica: comercial, distribución, recursos humanos, etc.;VERDADERO
+4;MINERÍA DE DATOS;Para que la Minería de datos sea exitosa, es imprescindible contar con una gran cantidad de información acumulada a lo largo de un periodo.;VERDADERO
+4;MINERÍA DE DATOS;Para que la Minería de datos sea exitosa, no es necesario contar con una gran cantidad de información acumulada a lo largo de un periodo.;FALSO
+4;MINERÍA DE DATOS;Se entiende por Data Minning a un tipo de análisis que proporciona apoyo en la toma de decisiones a los directivos y profesionales de negocios a través de un proceso denominado Descubrimiento de Conocimiento.;VERDADERO
+4;MINERÍA DE DATOS;Ubicar un producto en determinado sector de la góndola, o bien hacer ofertas conjuntas con otros productos, puede ser una conclusión extraida de la Minería de Datos.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;Con una apropiada Gestión del Conocimiento, se minimizan los costos en la compra de información del mercado.;FALSO
 5;GESTIÓN DEL CONOCIMIENTO;Con una apropiada Gestión del Conocimiento, se minimizan los efectos de la rotación de personal al reducirse las dependencias, y los tiempos de capacitación.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;En general, las organizaciones suelen depender de otras organizaciones para soportar soluciones de Gestión del Conocimiento, dado que es muy poca la relación con las competencias centrales del negocio.;FALSO
 5;GESTIÓN DEL CONOCIMIENTO;En general, las organizaciones suelen desplegar su propia infaestructura para soportar soluciones de Gestión del Conocimiento, dada la estrecha relación con las competencias centrales del negocio.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;La Gestión del Conocimiento se refiere a los sistemas administrativo-contable que permiten la utilización de la información de la empresa.;FALSO
 5;GESTIÓN DEL CONOCIMIENTO;La Gestión del Conocimiento se refiere al proceso que identifica, captura, almacena, mantiene, actualiza y transmite el conocimiento existente en una organización con el fin de que esté disponible.;VERDADERO
-5;GESTIÓN DEL CONOCIMIENTO;"Los proyectos de Gestión del Conocimiento, se justifican a través de la mayor productividad, consecuencia del menor impacto de la rotación del personal; la replicación de soluciones ya implantadas; y los ahorros en capacitación.";VERDADERO
+5;GESTIÓN DEL CONOCIMIENTO;Los proyectos de Gestión del Conocimiento, se justifican a través de la mayor productividad, consecuencia del menor impacto de la rotación del personal; la replicación de soluciones ya implantadas; y los ahorros en capacitación.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;Un proyecto de Gestión del Conocimiento para una empresa mediana puede costar algunos cientos de miles de dólares.;VERDADERO
 5;GROUPWARE;El ancho de banda de la infraestructura de las comunicaciones debe ser suficiente para permitir la trasmisión de contenido multimedial a múltiples destinatarios.;VERDADERO
 5;GROUPWARE;El ancho de banda de la infraestructura de las comunicaciones no resulta un condicionante para el despliegue de soluciones de Groupware.;FALSO
 5;GROUPWARE;La implantación de los sistemas de colaboración suele no ser crítica y puede realizarse en algunos meses.;VERDADERO
 5;GROUPWARE;La implantación de los sistemas de colaboración suele ser crítica en particular su integración con otros sistemas existentes como los ERP.;FALSO
 5;GROUPWARE;Los Sistemas de Colaboración o Groupware, también permiten la realización de reuniones virtuales urgentes, dándole a la organización una mejor respuesta a situaciones no previstas.;VERDADERO
-5;GROUPWARE;"Se entiende por ""Groupware"" a aplicaciones de software que ayudan a las personas, en general dispersas geográficamente, a trabajar en equipo... permitiendo la comunicación, la realización de conferencias y la coordinación de las actividades.";VERDADERO
+5;GROUPWARE;Se entiende por Groupware a aplicaciones de software que ayudan a las personas, en general dispersas geográficamente, a trabajar en equipo... permitiendo la comunicación, la realización de conferencias y la coordinación de las actividades.;VERDADERO
 5;GROUPWARE;Si bien los Sistemas de Colaboración o Groupware, en general permiten la realización de reuniones virtuales urgentes, no por ello ayudan a que la organización ofrezca una mejor respuesta a situaciones no previstas.;FALSO
 6;INTELIGENCIA ARTIFICIAL;La paradoja de Moravec muestra que el pensamiento inteligente y racional humano requiere relativamente de mucha computación, mientras que las habilidades sensoriales y motoras, no conscientes y compartidas con otros seres vivos, requieren de menores esfuerzos computacionales.;FALSO
 7;BLOG;El bajo costo/gratuidad, y la facilidad de uso tanto para el blogger como para los usuarios, son beneficios adicionales que han ayudado a su difusión.;VERDADERO
@@ -165,12 +165,12 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 7;BLOG;Una de las ventajas de los Blogs es que no se requiere de un proceso de moderación para evitar que comentarios no apropiados alteren el objetivo perseguido por el blogger.;FALSO
 7;BLOG;Uno de los principales beneficios de los Blog está asociado a la interacitivadad que se logra en el proceso de comunicación, haciendo que el lector o usuario tenga un rol activo.;VERDADERO
 7;BLOG;Uno de los principales desventajas de los Blog está asociado a la falta de interacitivadad en el proceso de comunicación.;FALSO
-7;INTERNET Y LA ESTRATEGIA;"En ""Internet y la Estrategia"" se analiza el impacto de Internet y las tecnologias asociadas, en la cadena de valor, desde proveedores a clientes.";VERDADERO
-7;INTERNET Y LA ESTRATEGIA;"En ""Internet y la Estrategia"" se analiza el impacto de los sistemas CRM en la cadena de valor.";FALSO
+7;INTERNET Y LA ESTRATEGIA;En Internet y la Estrategia se analiza el impacto de Internet y las tecnologias asociadas, en la cadena de valor, desde proveedores a clientes.;VERDADERO
+7;INTERNET Y LA ESTRATEGIA;En Internet y la Estrategia se analiza el impacto de los sistemas CRM en la cadena de valor.;FALSO
 7;INTERNET Y LA ESTRATEGIA;Michael Porter sostiene que Internet y las tecnologías asociadas, aumentan el poder de negociación de las empresas, ya que cuentan con mercados globales.;FALSO
 7;INTERNET Y LA ESTRATEGIA;Michael Porter sostiene que Internet y las tecnologías asociadas, aumentan el poder de negociación de los clientes, ya que existe mucha más información y el cambio de proveedor se facilita.;VERDADERO
-7;INTERNET Y LA ESTRATEGIA;"Por el ""efecto Porter"", hay servicios que elevan su valor cuando aumentan sus usuarios (correo electrónico, subastas, salas de chateo, redes sociales)";FALSO
-7;INTERNET Y LA ESTRATEGIA;"Por el ""efecto red"", hay servicios que elevan su valor cuando aumentan sus usuarios (correo electrónico, subastas, salas de chateo, redes sociales).";VERDADERO
+7;INTERNET Y LA ESTRATEGIA;Por el efecto Porter, hay servicios que elevan su valor cuando aumentan sus usuarios (correo electrónico, subastas, salas de chateo, redes sociales);FALSO
+7;INTERNET Y LA ESTRATEGIA;Por el efecto red, hay servicios que elevan su valor cuando aumentan sus usuarios (correo electrónico, subastas, salas de chateo, redes sociales).;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Por el efecto red, se pueden crear economías de escala del lado de la demanda y favorecer la creación de barreras de entrada.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, la ausencia de instalaciones físicas que circunscribe funciones y reduce las posibilidades de desarrollar una imagen clara.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, que la capacidad de aprendizaje de los proveedores y clientes se ve limitada.;FALSO
@@ -227,14 +227,14 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 7;WI FI;Dependiendo de la topología del área, las redes Wi-Fi pueden demandar una inversión algo mayor que las redes cableadas.;VERDADERO
 7;WI FI;Las redes inalámbricas son un punto adicional de vulnerabilidad que debe ser apropiadamente manejado mediante la aplicación de técnicas especificas: WEP, WPA, MAC Access list, etc.;VERDADERO
 7;WI FI;Las redes Wi-Fi ofrecen un bajo TCO y una excelente relación costo beneficio;VERDADERO
-7;WI FI;"Una de las principales desventajas está asociado al ""set-up"" necesario cada vez que se reubica un equipos.";FALSO
+7;WI FI;Una de las principales desventajas está asociado al set-up necesario cada vez que se reubica un equipos.;FALSO
 7;WI FI;Una red Wi-Fi para 16 equipos distribuidos en una oficina de 200 m2, tiene un costo de equipamiento cercano a los 10.000 dólares.;FALSO
 7;WI FI;Una red Wi-Fi para 16 equipos distribuidos en una oficina de 200 m2, tiene un costo de equipamiento cercano a los 1000 dólares.;VERDADERO
 7;WI FI;Uno de las principales beneficios está asociado a que permite la reubicación inmediata de equipos portátiles. Por ejemplo, traslado a una sala de conferencias.;VERDADERO
 7;WI FI;Wi-Fi es un conjunto de estándares para redes inalámbricas de corto alcance basado en las especificaciones IEEE 802.11.;VERDADERO
 7;WI FI;Wi-Fi es un conjunto de estándares para redes inalámbricas de largo alcance basado en las especificaciones IEEE 802.11.;FALSO
 7;WIKI;La falta de moderación en algunas Wikis, puede hacer que las mismas posean información incorrecta y/o contenidos inapropiados.;VERDADERO
-7;WIKI;"La Wikis ofrecen herramientas de gestión de los cambios, las cuales permiten identificar la autoría de los mismos, la fecha en que dichos cambios fueron realizados, etc.; favoreciendo de esta manera una edición responsable de contenidos.";VERDADERO
+7;WIKI;La Wikis ofrecen herramientas de gestión de los cambios, las cuales permiten identificar la autoría de los mismos, la fecha en que dichos cambios fueron realizados, etc.; favoreciendo de esta manera una edición responsable de contenidos.;VERDADERO
 7;WIKI;Las Wikis facilitan el intercambio de información entre personas dispersas geográficamente.;VERDADERO
 7;WIKI;Las Wikis son bibliotecas virtuales basadas en el conocimiento de los emblemas de los temas a desarrollar;FALSO
 7;WIKI;Las Wikis son herramientas para creación de contenidos en entornos web, donde se permite que los usuarios creen y editen los mismos de manera fácil e interactiva.;VERDADERO
@@ -243,39 +243,39 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 7;WIKI;Uno de los principales beneficios de las Wikis está asociado a la veracidad de sus contenidos.;FALSO
 7;WIKI;Uno de los principales beneficios de las Wikis está asociado al involucramiento de los usuarios en el enriquecimiento de los contenidos y la construcción de conocimiento como suma de experiencias y perspectivas diferentes.;VERDADERO
 8;TCO;Los costos asociados al personal propio ya existente, no forman parte del TCO de una dada solución.;FALSO
-9;ALINEAMIENTO ESTRATÉGICO;"Como en cualquier otra metodología racional de asignación de recursos, habrá intereses y necesidades que puedan parecer haberse ignorado.";VERDADERO
-9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico de las TIC, hace referencia a cómo estas responden, soportan y potencian las iniciativas del sector de Procesamiento de Datos y/o Sistemas de Información.";FALSO
-9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una arquitectura de servicios basados en TIC.";VERDADERO
-9;ALINEAMIENTO ESTRATÉGICO;"Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear  ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.";VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;Como en cualquier otra metodología racional de asignación de recursos, habrá intereses y necesidades que puedan parecer haberse ignorado.;VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;El alineamiento estratégico de las TIC, hace referencia a cómo estas responden, soportan y potencian las iniciativas del sector de Procesamiento de Datos y/o Sistemas de Información.;FALSO
+9;ALINEAMIENTO ESTRATÉGICO;El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una arquitectura de servicios basados en TIC.;VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear  ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.;VERDADERO
 9;ALINEAMIENTO ESTRATÉGICO;Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.;VERDADERO
-9;ESTRATEGIA Y TIC;"Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional; cámaras digitales vs. cámaras con películas; etc.";VERDADERO
-9;LA TI YA NO IMPORTA;"Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de minimizar los costos asociados a las mismas.";VERDADERO
-9;LA TI YA NO IMPORTA;"El artículo ""Las TI ya no importan"" fue escrito por Michael Earl.";FALSO
-9;LA TI YA NO IMPORTA;"En el artículo titulado ""Las TI ya no importan"", se señala el proceso de diferenciación que afecta a los componentes utilizados en la industria informática, y en como la misma permite generar ventajas competitivas.";FALSO
-9;LA TI YA NO IMPORTA;"Las TIC deben manejarse, según Carr, como una ""fuente de riesgo"", minimizando costos e inversiones.";VERDADERO
-9;LA TI YA NO IMPORTA;"Nicholas Carr sostiene que debido al proceso de estandarización y masificación de la tecnología, ya no es posible obtener ventajas competitivas derivadas de la aplicación de las TIC.";VERDADERO
+9;ESTRATEGIA Y TIC;Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional; cámaras digitales vs. cámaras con películas; etc.;VERDADERO
+9;LA TI YA NO IMPORTA;Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de minimizar los costos asociados a las mismas.;VERDADERO
+9;LA TI YA NO IMPORTA;El artículo Las TI ya no importan fue escrito por Michael Earl.;FALSO
+9;LA TI YA NO IMPORTA;En el artículo titulado Las TI ya no importan, se señala el proceso de diferenciación que afecta a los componentes utilizados en la industria informática, y en como la misma permite generar ventajas competitivas.;FALSO
+9;LA TI YA NO IMPORTA;Las TIC deben manejarse, según Carr, como una fuente de riesgo, minimizando costos e inversiones.;VERDADERO
+9;LA TI YA NO IMPORTA;Nicholas Carr sostiene que debido al proceso de estandarización y masificación de la tecnología, ya no es posible obtener ventajas competitivas derivadas de la aplicación de las TIC.;VERDADERO
 9;LA TI YA NO IMPORTA;Rockett, como Carr, indica que las TIC no ofrecen la posibilidad de generar diferenciación.;FALSO
-9;LA TI YA NO IMPORTA;"Según David Walter, Carr ""algo de razón tiene"", ya que el potencial de las TIC no es infinito y es esperable que el crecimiento sea menos intenso y más predecible.";VERDADERO
+9;LA TI YA NO IMPORTA;Según David Walter, Carr algo de razón tiene, ya que el potencial de las TIC no es infinito y es esperable que el crecimiento sea menos intenso y más predecible.;VERDADERO
 10;EA;Enterprise Arquitecture o Arquitectura Organizacional es un estándar para determinar el grado de madurez de una organización en cuanto a su habilidad para ejecutar la estrategia.;FALSO
-10;LA DESCONEXIÓN;"John Wyman, en su libro ""Tecnovisión"", desarrolla el concepto de la desconexión.";FALSO
+10;LA DESCONEXIÓN;John Wyman, en su libro Tecnovisión, desarrolla el concepto de la desconexión.;FALSO
 10;LA DESCONEXIÓN;La desconexión no es producto del software ni de las computadoras, sino de la administración. No es un problema que el CIO pueda encarar sólo, ya que combatirla implicará cambios que a menudo no serán tecnológicos.;VERDADERO
-10;LA DESCONEXIÓN;"Se entiende por desconexión al desalineamiento entre los objetivos de los ejecutivos ""del negocio"" y de los CIO que parecen no comprender los objetivos del negocio a largo plazo, haciendo que las inversiones en TIC no potencien la estrategia competitiva.";VERDADERO
-10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;"Según Jeanne W. Ross, el CIO es el responsable de definir ""cuán buenos"" deben ser los servicios informáticos que brinda, considerando siempre la excelencia en la ejecución.";FALSO
+10;LA DESCONEXIÓN;Se entiende por desconexión al desalineamiento entre los objetivos de los ejecutivos del negocio y de los CIO que parecen no comprender los objetivos del negocio a largo plazo, haciendo que las inversiones en TIC no potencien la estrategia competitiva.;VERDADERO
+10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Según Jeanne W. Ross, el CIO es el responsable de definir cuán buenos deben ser los servicios informáticos que brinda, considerando siempre la excelencia en la ejecución.;FALSO
 10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Según Jeanne W. Ross, la asignación de recursos a los distintos procesos de negocio, no es competencia exclusiva del CIO.;VERDADERO
-10;SHADOW IT;"No existe evidencia que demuestre que las soluciones desplegadas bajo ""Shadow IT"" típicamente impliquen expuestos de seguridad o al cumplimiento de regulaciones.";FALSO
+10;SHADOW IT;No existe evidencia que demuestre que las soluciones desplegadas bajo Shadow IT típicamente impliquen expuestos de seguridad o al cumplimiento de regulaciones.;FALSO
 11;CÓDIGO ABIERTO;Como ejemplos de productos Open Source se puede mencionar: el Sistema Operativo Linux, el Servidor Web Apache, el navegador Mozilla, el conjunto de aplicaciones de oficina OpenOffice, etc.;VERDADERO
-11;CÓDIGO ABIERTO;"El concepto ""código fuente abierto"" hace referencia a un programa cuyo código fuente está disponible, permitiendo al usuario el estudiarlo y/o modificarlo.";VERDADERO
-11;CÓDIGO ABIERTO;"El concepto ""código fuente abierto"" hace referencia a un programa cuyo código fuente está disponible, permitiendo comerciarlo libremente.";FALSO
-11;CÓDIGO ABIERTO;"El software de ""código abierto"" minimiza los riesgos de contener elementos que puedan tanto inhibir o limitar su uso, como comprometer la seguridad informática de la organización.";VERDADERO
-11;CÓDIGO ABIERTO;"El software de ""código abierto"" no minimiza los riesgos de contener elementos que puedan tanto inhibir o limitar su uso.";FALSO
-11;CÓDIGO ABIERTO;"El software de ""código abierto"", cuando es compartido por comunidades de programadores, cuenta con numerosos recursos para la detección y corrección de posibles errores.";VERDADERO
-11;CÓDIGO ABIERTO;"El uso de software de ""código abierto"" implica fuertes efectos adversos asociados a las adecuaciones del mismo a necesidades específicas de la compañía.";FALSO
-11;CÓDIGO ABIERTO;"El uso de software de ""código abierto"" no implica en sí efectos adversos. No obstante, las adecuaciones del mismo a necesidades específicas de la compañía conlleva algún grado de dependencia.";VERDADERO
-11;CÓDIGO ABIERTO;"Posiblemente la mayor desventaja para la organización usuaria de software de ""código abierto"" resida en la imposibilidad de adaptar el producto a necesidades específicas.";FALSO
+11;CÓDIGO ABIERTO;El concepto código fuente abierto hace referencia a un programa cuyo código fuente está disponible, permitiendo al usuario el estudiarlo y/o modificarlo.;VERDADERO
+11;CÓDIGO ABIERTO;El concepto código fuente abierto hace referencia a un programa cuyo código fuente está disponible, permitiendo comerciarlo libremente.;FALSO
+11;CÓDIGO ABIERTO;El software de código abierto minimiza los riesgos de contener elementos que puedan tanto inhibir o limitar su uso, como comprometer la seguridad informática de la organización.;VERDADERO
+11;CÓDIGO ABIERTO;El software de código abierto no minimiza los riesgos de contener elementos que puedan tanto inhibir o limitar su uso.;FALSO
+11;CÓDIGO ABIERTO;El software de código abierto, cuando es compartido por comunidades de programadores, cuenta con numerosos recursos para la detección y corrección de posibles errores.;VERDADERO
+11;CÓDIGO ABIERTO;El uso de software de código abierto implica fuertes efectos adversos asociados a las adecuaciones del mismo a necesidades específicas de la compañía.;FALSO
+11;CÓDIGO ABIERTO;El uso de software de código abierto no implica en sí efectos adversos. No obstante, las adecuaciones del mismo a necesidades específicas de la compañía conlleva algún grado de dependencia.;VERDADERO
+11;CÓDIGO ABIERTO;Posiblemente la mayor desventaja para la organización usuaria de software de código abierto resida en la imposibilidad de adaptar el producto a necesidades específicas.;FALSO
 11;CÓDIGO ABIERTO;Posiblemente la mayor ventaja para la organización usuaria de software de código abierto resida en la posibilidad de adaptar el producto a necesidades específicas sin dependencias de terceros.;VERDADERO
 11;SOFTWARE LIBRE;Dado que el código fuente de software libre está disponible, uno de sus principales beneficios es la no dependencia del proveedor, situación que para ciertos casos (un organismo de defensa por ejemplo) puede ser crítica.;VERDADERO
 11;SOFTWARE LIBRE;Durante la operación de software libre no es común contratar personal auxiliar para el desarrollo de los módulos a implementar sobre el lenguaje en el que se quiere utilizar.;FALSO
-11;SOFTWARE LIBRE;"El software ""libre"" es aquel que le permite al usuario el usar el programa, con cualquier propósito; el estudiar el funcionamiento; el adaptarlo a sus necesidades; y el distribuir copias. Libre no necesariamente significa gratuito.";VERDADERO
+11;SOFTWARE LIBRE;El software libre es aquel que le permite al usuario el usar el programa, con cualquier propósito; el estudiar el funcionamiento; el adaptarlo a sus necesidades; y el distribuir copias. Libre no necesariamente significa gratuito.;VERDADERO
 11;SOFTWARE LIBRE;El software libre estimula a la innovación, ya que ofrece un producto potencialmente flexible, de menor costo (al menos en cuanto licenciamiento se refiere), e independiente de lo que el proveedor decida hacer con el mismo.;VERDADERO
 11;SOFTWARE LIBRE;El software libre se puede desarrollar mediante el esfuerzo colectivo, aunque no necesariamente coordinado, de programadores alrededor del globo utilizando los medios que Internet.;VERDADERO
 11;SOFTWARE LIBRE;En el Software libre la tecnología es un factor crítico. Los lenguajes son siempre muy complejos y desordenados, haciendo casi imposible su modificación.;FALSO
@@ -323,7 +323,7 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 12;VOIP;Una de las principales ventajas de VoIP es utiliza la infraestructura de datos existente, evitando recurrir a lineas dedicadas de la red PSTN, telefonía pública, con el consecuente ahorro en costos.;VERDADERO
 12;VOIP;Una vez que la voz es digitalizada y encapsulada en paquetes IP, puede ser integrada con otros medios de comunicación como correos, mensajes instantáneas, faxes, facilitando el despliegue de soluciones de comunicaciones unificadas.;VERDADERO
 12;VOIP;VoIP o Virtualization on Investment Products es una técnica en la cual la empresa proveedora muestra sus productos de manera digital al cliente por medio de modelos 3d o 2d.;FALSO
-12;VOIP;"VoIP o Voz sobre Protocolo de Internet, también llamado Voz IP... es un grupo de recursos que hacen posible que la señal de voz viaje a través de redes IP; Internet entre ellas.";VERDADERO
+12;VOIP;VoIP o Voz sobre Protocolo de Internet, también llamado Voz IP... es un grupo de recursos que hacen posible que la señal de voz viaje a través de redes IP; Internet entre ellas.;VERDADERO
 12;VPN;La incorrecta configuración de las políticas de seguridad o de acceso, pueden hacer vulnerable la red.;VERDADERO
 12;VPN;La incorrecta configuración de las políticas de seguridad, puede generar un mayor costo de conectividad.;FALSO
 12;VPN;Posiblemente el mayor beneficio que ofrecen las VPN esté asociado a la disponibilidad, ya que mediante esta tecnología se comparte la infraestructura.;FALSO
@@ -350,7 +350,7 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 13;CLIENTE SERVIDOR;La arquitectura Cliente-Servidor es una forma diseñar aplicaciones y servicios informáticos en los cuales parte de las tareas se realiza en un equipo central, el servidor, y otra, en el equipo del usuario.;VERDADERO
 13;CLIENTE SERVIDOR;La arquitectura cliente-servidor es utilizada en Internet. Cuando se visita a un sitio web, un servidor envía la página codificada al navegador... y es este el encargado de procesar la información y presentarla.;VERDADERO
 13;CLOUD COMPUTING;El modelo de Cloud Computing libera capital para otras áreas del negocio, ya que típicamente los cargos iniciales, cuando los hay, son menores que los que serían necesarios para generar infraestructura propia.;VERDADERO
-13;CLOUD COMPUTING;"PaaS, Product as a Service y IaaS, Information as a Service, son parte de paradigma ""Computación en la Nube"".";FALSO
+13;CLOUD COMPUTING;PaaS, Product as a Service y IaaS, Information as a Service, son parte de paradigma Computación en la Nube.;FALSO
 13;SAAS;El modelo de SaaS no ofrece ventajas significativas en la inversión inicial comparado con otras alternativas como el despliegue on-premise.;FALSO
 13;SOA;La Arquitectura Orientada a Servicios desfavorece el despliegue de servicios de IT, dando una menor flexibilidad y rapidez a la hora de responder a las demandas de los usuarios.;FALSO
 13;SOA;La Arquitectura Orientada a Servicios favorece el despliegue de servicios de IT con funcionalidades más cercanas al negocio, permitiendo asi cumplir con mayor flexibilidad y rapidez...;VERDADERO
@@ -363,3 +363,4 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 13;SOA;SOA propone un modelo mucho más eficiente, en el que el código de la función es independiente de la forma en que se resuelve la integración.;VERDADERO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
+
