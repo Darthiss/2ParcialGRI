@@ -7,7 +7,7 @@
 15;COBIT;COBIT, u Objetivos de Control para la Información y Tecnologías relacionadas, es un marco de mejores prácticas para el manejo de la tecnología de la información.;VERDADERO
 15;COBIT;La principal desventaja de COBIT es que los auditores y gerentes necesitan un profundo conocimiento sobre el marco COBIT para poder aplicarlo a los procesos de la empresa.;VERDADERO
 15;COBIT;La principal ventaja de COBIT es que los auditores y gerentes no necesitan un conocimiento profundo sobre el marco COBIT para poder aplicarlo.;FALSO
-15;ITIL;"El beneficio principal de ITIL es que permite lograr una correcta alineación de los objetivos de TI con los objetivos estratégicos del negocio; convirtiendo los objetivos del negocio en parte del portafolio de servicios de IT.";VERDADERO
+15;ITIL;"El beneficio principal de ITIL es que permite lograr una correcta alineación de los objetivos de TI con los objetivos estratégicos del negocio convirtiendo los objetivos del negocio en parte del portafolio de servicios de IT.";VERDADERO
 15;ITIL;ITIL es un conjunto de prácticas y procesos, destinadas a facilitar la entrega de servicios de tecnologías de la información.;VERDADERO
 15;ITIL;ITIL es una metodología destinada a facilitar la entrega de servicios de tecnologías de la información.;FALSO
 15;ITIL;ITIL, en la parte estratégica de los servicios, indica cómo establecer un caso de negocio que sirva para las aprobaciones ejecutivas de un proyecto.;VERDADERO
@@ -194,3 +194,4 @@
 27;ECOSISTEMA TIC;CADIEEL, la Cámara Argentina de Industrias Electrónicas, Electromecánicas y Luminotécnica representa a más de 3000 empresas de la industria electro-electrónica que emplean a más de treinta mil personas y facturan anualmente más de 3000 millones de dólares.;VERDADERO
 27;ECOSISTEMA TIC;CESSI es la Cámara de Informática y Comunicaciones de la República Argentina, nuclea compañías de diferentes perfiles, pequeñas, medianas y grandes, de origen nacional y extranjero.;FALSO
 27;ECOSISTEMA TIC;La Cámara de Empresas de Software y Servicios Informáticos, CICOMRA, organización sin fines de lucro, nuclea a grandes, medianos, pequeñas empresas y entidades regionales del sector informático, dedicadas al desarrollo, producción, comercialización e implementación de software y todas las variantes de servicios.;FALSO
+
