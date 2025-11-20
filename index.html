@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Práctica: Segundo Parcial GRI</title>
+    <title>Práctica: Parciales GRI</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
@@ -31,21 +31,78 @@
 <body>
 
 <div id="app" class="min-h-screen flex flex-col items-center justify-center p-4">
-    <div class="w-full max-w-lg bg-white rounded-xl p-8 container-card">
-        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">
-            Segundo Parcial GRI 🤓
+    <div class="w-full max-w-lg bg-white rounded-xl p-8 container-card relative">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-2">
+            Práctica Parciales GRI 🤓
         </h1>
+
+        <!-- Label de examen actual -->
+        <p id="current-exam-label" class="text-center text-xs text-gray-500 mb-4"></p>
         
-        <!-- Botón pequeño para cargar CSV -->
-        <div class="flex justify-end mb-4">
+        <!-- Menú burger -->
+        <div class="flex justify-end mb-4 relative">
             <button
-                onclick="document.getElementById('csv-file-input').click()"
-                class="text-sm px-3 py-1 rounded-md bg-indigo-500 text-white hover:bg-indigo-600 transition">
-                Subir archivo personalizado
+                id="menu-button"
+                aria-label="Abrir menú"
+                class="px-3 py-2 rounded-md bg-indigo-500 text-white hover:bg-indigo-600 transition flex items-center justify-center"
+            >
+                ☰
             </button>
+            <div
+                id="menu-dropdown"
+                class="hidden absolute right-0 mt-2 w-52 bg-white border border-gray-200 rounded-lg shadow-lg text-sm z-20"
+            >
+                <button
+                    type="button"
+                    onclick="triggerUpload()"
+                    class="w-full text-left px-4 py-2 hover:bg-gray-100"
+                >
+                    Subir archivo personalizado
+                </button>
+                <button
+                    type="button"
+                    onclick="changeExam()"
+                    class="w-full text-left px-4 py-2 hover:bg-gray-100"
+                >
+                    Cambiar examen
+                </button>
+                <button
+                    type="button"
+                    onclick="resetQuiz()"
+                    class="w-full text-left px-4 py-2 hover:bg-gray-100"
+                >
+                    Reiniciar examen
+                </button>
+            </div>
         </div>
 
-        <!-- Input oculto -->
+        <!-- Selector de examen -->
+        <div id="exam-select-section" class="text-center mb-6">
+            <p class="mb-4 text-sm text-gray-700">
+                ¿Qué examen querés practicar?
+            </p>
+            <div class="flex justify-center gap-4">
+                <button
+                    type="button"
+                    onclick="selectExam('parcial1')"
+                    class="px-4 py-2 rounded-lg bg-indigo-500 text-white text-sm font-semibold hover:bg-indigo-600 transition"
+                >
+                    Primer Parcial
+                </button>
+                <button
+                    type="button"
+                    onclick="selectExam('parcial2')"
+                    class="px-4 py-2 rounded-lg bg-emerald-500 text-white text-sm font-semibold hover:bg-emerald-600 transition"
+                >
+                    Segundo Parcial
+                </button>
+            </div>
+            <p class="mt-3 text-xs text-gray-500">
+                También podés cargar un CSV personalizado desde el menú ☰.
+            </p>
+        </div>
+
+        <!-- Input oculto para CSV -->
         <input
             type="file"
             id="csv-file-input"
@@ -83,6 +140,9 @@
                     </span>
                 </div>
             </div>
+
+            <!-- Meta: Unidad / Tema -->
+            <div id="question-meta" class="text-xs text-gray-500 mb-2 text-center"></div>
 
             <!-- Pregunta -->
             <div
@@ -128,7 +188,7 @@
             id="results-section"
             class="hidden text-center p-6 bg-green-50 rounded-xl border-t-4 border-green-500"
         >
-            <h2 class="text-2xl font-bold text-green-700 mb-3">¡Quiz terminado!</h2>
+            <h2 class="text-2xl font-bold text-green-700 mb-3">¡Examen terminado!</h2>
             <p class="text-xl text-gray-800 mb-2">
                 Puntuación Final:
                 <span id="final-score" class="text-4xl font-extrabold text-green-600">0</span>
@@ -144,24 +204,40 @@
                 <li>Incorrectas: <span id="stat-incorrect" class="font-bold">0</span></li>
                 <li>Omitidas: <span id="stat-skipped" class="font-bold">0</span></li>
             </ul>
+
+            <!-- Preguntas incorrectas (desplegable) -->
+            <details class="mt-4 text-left max-h-64 overflow-y-auto">
+                <summary class="cursor-pointer text-sm text-indigo-700 hover:text-indigo-900 font-semibold">
+                    Ver preguntas incorrectas
+                </summary>
+                <div id="wrong-questions-list" class="mt-2 space-y-3 text-sm text-gray-800"></div>
+            </details>
+
             <button
-                onclick="location.reload()"
+                onclick="resetQuiz()"
                 class="mt-6 py-2 px-6 rounded-full text-white font-bold bg-indigo-500 hover:bg-indigo-600 focus:outline-none focus:ring-4 focus:ring-indigo-300"
             >
                 Empezar nuevo intento
             </button>
+            
+            <button
+                onclick="changeExam()"
+                class="py-2 px-6 rounded-full text-indigo-600 font-bold bg-white border border-indigo-400 hover:bg-indigo-50 focus:outline-none focus:ring-4 focus:ring-indigo-200"
+            >
+            Cambiar de examen
+            </button>
         </div>
 
         <!-- Donaciones -->
-<div class="mt-8 text-center">
-    <a
-        href="https://cafecito.app/darthiss"
-        target="_blank"
-        class="text-sm text-indigo-600 hover:text-indigo-800 underline"
-    >
-        Invitame un cafecito ☕
-    </a>
-</div>
+        <div class="mt-8 text-center">
+            <a
+                href="https://cafecito.app/darthiss"
+                target="_blank"
+                class="text-sm text-indigo-600 hover:text-indigo-800 underline"
+            >
+                Invitame un cafecito ☕
+            </a>
+        </div>
 
         <!-- Error -->
         <div
@@ -180,11 +256,15 @@
     let score = 0; // puede ir de -50 a 50
     let stats = { correct: 0, incorrect: 0, skipped: 0 };
     let isQuizActive = false;
+    let answeredQuestions = []; // para mostrar las incorrectas al final
+    let currentExam = null; // 'parcial1', 'parcial2', 'custom'
 
     const csvFileInput = document.getElementById('csv-file-input');
     const quizSection = document.getElementById('quiz-section');
     const resultsSection = document.getElementById('results-section');
+    const examSelectSection = document.getElementById('exam-select-section');
     const questionText = document.getElementById('question-text');
+    const questionMeta = document.getElementById('question-meta');
     const currentScoreSpan = document.getElementById('current-score');
     const currentProgressSpan = document.getElementById('current-progress');
     const feedbackMessage = document.getElementById('feedback-message');
@@ -192,10 +272,18 @@
     const liveCorrectSpan = document.getElementById('live-correct');
     const liveIncorrectSpan = document.getElementById('live-incorrect');
     const liveSkippedSpan = document.getElementById('live-skipped');
+    const menuButton = document.getElementById('menu-button');
+    const menuDropdown = document.getElementById('menu-dropdown');
+    const currentExamLabel = document.getElementById('current-exam-label');
 
     function displayError(message) {
         errorMessage.textContent = message;
         errorMessage.classList.remove('hidden');
+    }
+
+    function hideError() {
+        errorMessage.classList.add('hidden');
+        errorMessage.textContent = '';
     }
 
     function getRandomElements(arr, num) {
@@ -208,6 +296,20 @@
         liveCorrectSpan.textContent = stats.correct;
         liveIncorrectSpan.textContent = stats.incorrect;
         liveSkippedSpan.textContent = stats.skipped;
+    }
+
+    function updateExamLabel() {
+        let text = '';
+        if (currentExam === 'parcial1') {
+            text = 'Practicando: Primer Parcial';
+        } else if (currentExam === 'parcial2') {
+            text = 'Practicando: Segundo Parcial';
+        } else if (currentExam === 'custom') {
+            text = 'Practicando: Examen personalizado';
+        } else {
+            text = '';
+        }
+        currentExamLabel.textContent = text;
     }
 
     function initQuizFromQuestions(questions) {
@@ -228,11 +330,15 @@
         score = 0;
         currentQuestionIndex = 0;
         stats = { correct: 0, incorrect: 0, skipped: 0 };
+        answeredQuestions = [];
         isQuizActive = true;
 
+        examSelectSection.classList.add('hidden');
         quizSection.classList.remove('hidden');
-        errorMessage.classList.add('hidden');
+        resultsSection.classList.add('hidden');
+        hideError();
 
+        updateExamLabel();
         updateLiveStats();
         displayQuestion();
     }
@@ -244,28 +350,68 @@
             .filter(line => line !== "");
         const questions = [];
 
-        lines.forEach(line => {
-            const columns = line.split(";").map(col => col.trim());
-            if (columns && columns.length >= 2) {
-                const statement = columns[0].replace(/"/g, "");
-                const answer = columns[1].toLowerCase();
-                if (statement && (answer === "verdadero" || answer === "falso")) {
-                    questions.push({
-                        statement: statement,
-                        correctAnswer: answer === "verdadero"
-                    });
-                }
+        lines.forEach((line, index) => {
+            // Intentar primero con ; y si no, con tab
+            let columns = line.split(";").map(col => col.trim());
+            if (columns.length === 1) {
+                columns = line.split("\t").map(col => col.trim());
+            }
+
+            if (!columns || columns.length < 2) return;
+
+            // Detectar header y saltearlo
+            const upperFirst = columns[0].toUpperCase();
+            if (index === 0 && (upperFirst.includes("UNIDAD") || upperFirst.includes("AFIRMACION"))) {
+                return;
+            }
+
+            let unidad = "";
+            let tema = "";
+            let statement = "";
+            let answerRaw = "";
+
+            if (columns.length >= 4) {
+                // Formato nuevo: UNIDAD, TEMA, AFIRMACION, RESPUESTA
+                unidad = columns[0];
+                tema = columns[1];
+                statement = (columns[2] || "").replace(/"/g, "");
+                answerRaw = (columns[3] || "").toLowerCase();
+            } else {
+                // Formato viejo: AFIRMACION;RESPUESTA
+                statement = (columns[0] || "").replace(/"/g, "");
+                answerRaw = (columns[1] || "").toLowerCase();
+            }
+
+            if (statement && (answerRaw === "verdadero" || answerRaw === "falso")) {
+                questions.push({
+                    unidad: unidad || null,
+                    tema: tema || null,
+                    statement: statement,
+                    correctAnswer: answerRaw === "verdadero"
+                });
             }
         });
 
         return questions;
     }
 
-    async function loadDefaultCSV() {
+    async function loadExam(examId) {
         try {
-            const response = await fetch("preguntas.csv");
+            currentExam = examId;
+            updateExamLabel();
+
+            let fileName;
+            if (examId === 'parcial1') {
+                fileName = "preguntas_parcial1.csv";
+            } else if (examId === 'parcial2') {
+                fileName = "preguntas_parcial2.csv";
+            } else {
+                fileName = "preguntas.csv";
+            }
+
+            const response = await fetch(fileName);
             if (!response.ok) {
-                throw new Error("No se pudo cargar preguntas.csv");
+                throw new Error("No se pudo cargar " + fileName);
             }
             const text = await response.text();
             allQuestions = parseCSV(text);
@@ -273,7 +419,7 @@
         } catch (error) {
             console.error(error);
             displayError(
-                "No se pudo cargar el archivo preguntas.csv. Verificá que exista en la raíz del repo."
+                "No se pudo cargar el archivo del examen seleccionado. Verificá que exista en el repo."
             );
         }
     }
@@ -283,6 +429,17 @@
             const question = quizQuestions[currentQuestionIndex];
             questionText.textContent = question.statement;
             currentProgressSpan.textContent = `${currentQuestionIndex + 1} / ${quizQuestions.length}`;
+
+            // Mostrar Unidad / Tema si existen
+            if (question.unidad || question.tema) {
+                const parts = [];
+                if (question.unidad) parts.push(`Unidad: ${question.unidad}`);
+                if (question.tema) parts.push(`Tema: ${question.tema}`);
+                questionMeta.textContent = parts.join(" · ");
+            } else {
+                questionMeta.textContent = "";
+            }
+
             feedbackMessage.classList.add("hidden");
         } else {
             endQuiz();
@@ -295,6 +452,7 @@
         const question = quizQuestions[currentQuestionIndex];
         let points = 0;
         let message = "";
+        let isCorrectFlag = null;
 
         if (userChoice === "Omitir") {
             points = 0;
@@ -303,8 +461,11 @@
             feedbackMessage.classList.remove("bg-red-100", "bg-green-100", "text-red-700", "text-green-700");
             feedbackMessage.classList.add("bg-gray-200", "text-gray-700");
         } else {
-            const choiceIsCorrect = userChoice === "Verdadero";
-            if (choiceIsCorrect === question.correctAnswer) {
+            const choiceIsTrue = userChoice === "Verdadero";
+            const isCorrect = (choiceIsTrue === question.correctAnswer);
+            isCorrectFlag = isCorrect;
+
+            if (isCorrect) {
                 points = 1; // correcta suma 1
                 score += points;
                 stats.correct++;
@@ -335,6 +496,16 @@
             }
         }
 
+        // Registrar la respuesta
+        answeredQuestions.push({
+            unidad: question.unidad,
+            tema: question.tema,
+            statement: question.statement,
+            correctAnswer: question.correctAnswer,
+            userAnswer: userChoice,
+            isCorrect: isCorrectFlag
+        });
+
         updateLiveStats();
         feedbackMessage.textContent = message;
         feedbackMessage.classList.remove("hidden");
@@ -356,6 +527,49 @@
         return nota.toFixed(1);
     }
 
+    function buildWrongQuestionsList() {
+        const container = document.getElementById("wrong-questions-list");
+        const wrongQuestions = answeredQuestions.filter(
+            q => q.isCorrect === false // solo las realmente incorrectas (no omitidas)
+        );
+
+        if (wrongQuestions.length === 0) {
+            container.innerHTML = '<p class="text-sm text-gray-600">No te equivocaste en ninguna 💪</p>';
+            return;
+        }
+
+        let html = "";
+        wrongQuestions.forEach((item, index) => {
+            const unidadTemaParts = [];
+            if (item.unidad) unidadTemaParts.push(`Unidad: ${item.unidad}`);
+            if (item.tema) unidadTemaParts.push(`Tema: ${item.tema}`);
+            const unidadTemaText = unidadTemaParts.join(" · ");
+
+            html += `
+                <div class="border border-gray-200 rounded-md p-3 bg-white">
+                    <div class="text-xs text-gray-500 mb-1">
+                        ${unidadTemaText || ""}
+                    </div>
+                    <p class="font-medium mb-1">${index + 1}. ${item.statement}</p>
+                    <p class="mb-0.5">
+                        Tu respuesta:
+                        <span class="font-semibold text-rose-600">
+                            ${item.userAnswer === "Verdadero" || item.userAnswer === "Falso" ? item.userAnswer : "—"}
+                        </span>
+                    </p>
+                    <p>
+                        Correcta:
+                        <span class="font-semibold text-emerald-700">
+                            ${item.correctAnswer ? "Verdadero" : "Falso"}
+                        </span>
+                    </p>
+                </div>
+            `;
+        });
+
+        container.innerHTML = html;
+    }
+
     function endQuiz() {
         isQuizActive = false;
         quizSection.classList.add("hidden");
@@ -369,12 +583,72 @@
 
         const notaFinal = calcularNotaFinal(score);
         document.getElementById("final-grade").textContent = notaFinal;
+
+        buildWrongQuestionsList();
     }
 
-    // Carga inicial desde preguntas.csv
-    document.addEventListener("DOMContentLoaded", () => {
-        loadDefaultCSV();
+    // --- Menú burger ---
+    menuButton.addEventListener("click", (event) => {
+        event.stopPropagation();
+        menuDropdown.classList.toggle("hidden");
     });
+
+    menuDropdown.addEventListener("click", (event) => {
+        // Evitar que el click dentro del menú cierre por el listener global
+        event.stopPropagation();
+    });
+
+    // Cerrar menú al hacer click fuera
+    document.addEventListener("click", (event) => {
+        if (
+            !menuDropdown.classList.contains("hidden") &&
+            !menuDropdown.contains(event.target) &&
+            !menuButton.contains(event.target)
+        ) {
+            menuDropdown.classList.add("hidden");
+        }
+    });
+
+    // Inicio: solo mostrar selector de examen
+    document.addEventListener("DOMContentLoaded", () => {
+        quizSection.classList.add('hidden');
+        resultsSection.classList.add('hidden');
+        examSelectSection.classList.remove('hidden');
+        updateExamLabel();
+    });
+
+    // Funciones para menú / exam selector
+    function triggerUpload() {
+        menuDropdown.classList.add("hidden");
+        csvFileInput.click();
+    }
+
+    function selectExam(examId) {
+        hideError();
+        examSelectSection.classList.add('hidden');
+        loadExam(examId);
+    }
+
+    function changeExam() {
+        menuDropdown.classList.add("hidden");
+        isQuizActive = false;
+        quizSection.classList.add('hidden');
+        resultsSection.classList.add('hidden');
+        examSelectSection.classList.remove('hidden');
+        questionMeta.textContent = '';
+        questionText.textContent = 'Seleccioná un examen para comenzar.';
+        currentExam = null;
+        updateExamLabel();
+    }
+
+    function resetQuiz() {
+        menuDropdown.classList.add("hidden");
+        if (!allQuestions || allQuestions.length === 0) {
+            displayError("No hay preguntas cargadas para reiniciar.");
+            return;
+        }
+        initQuizFromQuestions(allQuestions);
+    }
 
     // Upload opcional para reemplazar el banco
     csvFileInput.addEventListener("change", event => {
@@ -385,11 +659,12 @@
         reader.onload = e => {
             try {
                 allQuestions = parseCSV(e.target.result);
+                currentExam = 'custom';
                 initQuizFromQuestions(allQuestions);
             } catch (error) {
                 console.error("Error al procesar el archivo:", error);
                 displayError(
-                    "Error al leer o procesar el archivo CSV. Asegúrate de que el formato sea correcto (Afirmación;Respuesta)."
+                    "Error al leer o procesar el archivo CSV. Asegúrate de que el formato sea correcto (UNIDAD;TEMA;AFIRMACION;RESPUESTA)."
                 );
             }
         };
