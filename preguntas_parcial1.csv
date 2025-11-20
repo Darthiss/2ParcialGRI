@@ -98,8 +98,7 @@ determinar la veracidad de los resultados estadísticos.";FALSO
 4;BI;Los beneficios de los sistemas de BI provienen fundamentalmente de los ahorros en personal de control de gestión y preparación de informes.;FALSO
 4;BI;Los productos más populares de los sistemas BI incluyen MIC BI, Solvan Business Intelligence Suite, zQ67 Business Intelligence, qCorp Business Enterprise, etc.;FALSO
 4;BI;Los productos más populares de los sistemas BI incluyen Oracle Business Intelligence Suite, Enterprise Edition, SAP Business Intelligence, Microsoft Business Intelligence, iQ4bis Business Intelligence Group etc.;VERDADERO
-4;BI;"Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad
-tecnológica.";FALSO
+4;BI;"Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad tecnológica.";FALSO
 4;BI;Los riesgos asociados en las implantaciones de BI suelen estar dados por la falta de disponibilidad tecnológica.;FALSO
 4;BI;Los sistemas de Business Intelligence contienen herramientas que facilitan la explotación y utilización de datos de la organización para la creación del conocimiento organizacional.;VERDADERO
 4;BI;"Se conoce como ""Descubrimiento del Conocimiento"" al proceso de extraer conocimiento útil y comprensible, previamente desconocido, desde grandes cantidades de datos.";VERDADERO
@@ -111,17 +110,13 @@ tecnológica.";FALSO
 4;BIG DATA;Se entiende por Big Data a un conjunto de técnica tendientes a la toma de decisiones off line que involucran un gran volumen de datos típicamente provenientes de diversas fuentes.;FALSO
 4;BIG DATA;Se entiende por Big Data a un conjunto de técnica tendientes a la toma de decisiones que involucran un gran volumen de datos y que no requieren su procesamiento inmediato.;FALSO
 4;BSC;A diferencia de otros esquemas gerenciales asociado a indicadores, el BSC no es susceptible de errores de consistencia en las mediciones y manipulaciones estadísticas.;FALSO
-4;BSC;"Al estar repartidos los procesos entre los clientes y los servidores, se requiere utilizar servidores de 
-mayor porte para aprovechar la capacidad de procesamiento de los clientes.";FALSO
+4;BSC;"Al estar repartidos los procesos entre los clientes y los servidores, se requiere utilizar servidores de mayor porte para aprovechar la capacidad de procesamiento de los clientes.";FALSO
 4;BSC;Como todo esquema gerencial asociado a indicadores, el BSC es susceptible de errores de consistencia en las mediciones y manipulaciones estadísticas.;VERDADERO
-4;BSC;"Con un buen diseño y separación de procesos, puede minimizarse el tráfico de información entre 
-el servidor y los clientes, aunque requiriendo mayor ancho de banda en las redes que vinculan los 
-equipos.";FALSO
+4;BSC;"Con un buen diseño y separación de procesos, puede minimizarse el tráfico de información entre el servidor y los clientes, aunque requiriendo mayor ancho de banda en las redes que vinculan los equipos.";FALSO
 4;BSC;Los sistemas BSC se centran casi exclusivamente en indicadores financieros, como el ROE, ROA, etc.;FALSO
 4;BSC;Los sistemas de BSC combinan medidas tradicionales financieras, con factores no financieros. Es balanceado porque busca el balance entre indicadores financieros y no financieros, el corto plazo y el largo plazo, los indicadores de resultados y los de proceso y un balance entre el entorno y el interior de la organización.;VERDADERO
 4;BSC;Los sistemas de BSC permiten el control de los desvíos pero no se articulan con el plan estratégico.;FALSO
-4;BSC;"Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por 
-el plan estratégico, además de permitir el control de los desvíos.";VERDADERO
+4;BSC;"Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por el plan estratégico, además de permitir el control de los desvíos.";VERDADERO
 4;BSC;Los sistemas de BSC permiten identificar en forma rápida y sencilla el logro de objetivos definidos por el plan estratégico, además de permitir el control de los desvíos.;VERDADERO
 4;BSC;Los sistemas de BSC, Balanced Scorecard, vinculan el logro de las metas estratégicas a largo plazo con las operaciones diarias de una organización. Permiten agrupar los indicadores por perspectivas, en línea con los conceptos del BSC de Robert Kaplan y David Norton.;VERDADERO
 4;BSC;Los sistemas de BSC, Balanced Scorecard, vinculan el logro de las metas estratégicas a largo plazo con las operaciones diarias de una organización. Permiten agrupar los indicadores por perspectivas, en línea con los conceptos del BSC de Gibson y Nolan.;FALSO
@@ -248,28 +243,19 @@ el plan estratégico, además de permitir el control de los desvíos.";VERDADERO
 7;WIKI;Uno de los principales beneficios de las Wikis está asociado a la veracidad de sus contenidos.;FALSO
 7;WIKI;Uno de los principales beneficios de las Wikis está asociado al involucramiento de los usuarios en el enriquecimiento de los contenidos y la construcción de conocimiento como suma de experiencias y perspectivas diferentes.;VERDADERO
 8;TCO;Los costos asociados al personal propio ya existente, no forman parte del TCO de una dada solución.;FALSO
-9;ALINEAMIENTO ESTRATÉGICO;"Como en cualquier otra metodología racional de asignación de recursos, habrá intereses y 
-necesidades que puedan parecer haberse ignorado.";VERDADERO
-9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico de las TIC, hace referencia a cómo estas responden, soportan
-y potencian las iniciativas del sector de Procesamiento de Datos y/o Sistemas de Información.";FALSO
-9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una 
-arquitectura de servicios basados en TIC.";VERDADERO
-9;ALINEAMIENTO ESTRATÉGICO;"Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear 
-ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.";VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;"Como en cualquier otra metodología racional de asignación de recursos, habrá intereses y necesidades que puedan parecer haberse ignorado.";VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico de las TIC, hace referencia a cómo estas responden, soportan y potencian las iniciativas del sector de Procesamiento de Datos y/o Sistemas de Información.";FALSO
+9;ALINEAMIENTO ESTRATÉGICO;"El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una arquitectura de servicios basados en TIC.";VERDADERO
+9;ALINEAMIENTO ESTRATÉGICO;"Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear  ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.";VERDADERO
 9;ALINEAMIENTO ESTRATÉGICO;Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.;VERDADERO
 9;ESTRATEGIA Y TIC;"Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional; cámaras digitales vs. cámaras con películas; etc.";VERDADERO
-9;LA TI YA NO IMPORTA;"Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de 
-minimizar los costos asociados a las mismas.";VERDADERO
+9;LA TI YA NO IMPORTA;"Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de minimizar los costos asociados a las mismas.";VERDADERO
 9;LA TI YA NO IMPORTA;"El artículo ""Las TI ya no importan"" fue escrito por Michael Earl.";FALSO
-9;LA TI YA NO IMPORTA;"En el artículo titulado ""Las TI ya no importan"", se señala el proceso de diferenciación que afecta a los 
-componentes utilizados en la industria informática, y en como la misma permite generar ventajas 
-competitivas.";FALSO
+9;LA TI YA NO IMPORTA;"En el artículo titulado ""Las TI ya no importan"", se señala el proceso de diferenciación que afecta a los componentes utilizados en la industria informática, y en como la misma permite generar ventajas competitivas.";FALSO
 9;LA TI YA NO IMPORTA;"Las TIC deben manejarse, según Carr, como una ""fuente de riesgo"", minimizando costos e inversiones.";VERDADERO
-9;LA TI YA NO IMPORTA;"Nicholas Carr sostiene que debido al proceso de estandarización y masificación de la tecnología, 
-ya no es posible obtener ventajas competitivas derivadas de la aplicación de las TIC.";VERDADERO
+9;LA TI YA NO IMPORTA;"Nicholas Carr sostiene que debido al proceso de estandarización y masificación de la tecnología, ya no es posible obtener ventajas competitivas derivadas de la aplicación de las TIC.";VERDADERO
 9;LA TI YA NO IMPORTA;Rockett, como Carr, indica que las TIC no ofrecen la posibilidad de generar diferenciación.;FALSO
-9;LA TI YA NO IMPORTA;"Según David Walter, Carr ""algo de razón tiene"", ya que el potencial de las TIC no es infinito y es 
-esperable que el crecimiento sea menos intenso y más predecible.";VERDADERO
+9;LA TI YA NO IMPORTA;"Según David Walter, Carr ""algo de razón tiene"", ya que el potencial de las TIC no es infinito y es esperable que el crecimiento sea menos intenso y más predecible.";VERDADERO
 10;EA;Enterprise Arquitecture o Arquitectura Organizacional es un estándar para determinar el grado de madurez de una organización en cuanto a su habilidad para ejecutar la estrategia.;FALSO
 10;LA DESCONEXIÓN;"John Wyman, en su libro ""Tecnovisión"", desarrolla el concepto de la desconexión.";FALSO
 10;LA DESCONEXIÓN;La desconexión no es producto del software ni de las computadoras, sino de la administración. No es un problema que el CIO pueda encarar sólo, ya que combatirla implicará cambios que a menudo no serán tecnológicos.;VERDADERO
