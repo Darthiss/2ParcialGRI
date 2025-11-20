@@ -1,7 +1,10 @@
 # Práctica de Parciales – Gestión de Recursos Informáticos (GRI)
 
-![UBA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UBA.svg/960px-UBA.svg.png)
-![FCE Logo](https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UBA.svg/960px-UBA.svg.png" alt="UBA Logo" width="80">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png" alt="FCE Logo" width="80">
+</p>
 
 Este proyecto permite practicar preguntas de **los parciales de la materia Gestión de Recursos Informáticos (GRI)**  
 **Código 1799 – Profesor: Mazza Néstor Hugo – Facultad de Ciencias Económicas – UBA**
