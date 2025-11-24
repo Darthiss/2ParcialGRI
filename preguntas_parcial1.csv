@@ -42,10 +42,10 @@
 3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral de la organización y al cambio cultural necesario.;VERDADERO
 3;BPM;Los riesgos asociados a proyectos de BPM suelen estar dados por la falta de compromiso integral de la organización y al cambio cultural necesario.;VERDADERO
 3;BPM;Los sistemas BPM permiten integrar la cadena de valor, minimizando inventarios, evitando puntos de quiebre, reduciendo los costos de adquisición, mejorando la transparencia y el control de los procesos asociados.;FALSO
-3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico consiste en el uso de las tecnologias propias de Internet en los procesos internos del gobierno para hacerlos más eficientes y/o brindar mejores servicios a los ciudadanos.;VERDADERO
+3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico consiste en el uso de las tecnologías propias de Internet en los procesos internos del gobierno para hacerlos más eficientes y/o brindar mejores servicios a los ciudadanos.;VERDADERO
 3;EGOVERNMENT;El e-government, e-gobierno, o gobierno electrónico no son conceptos similares, sino claramente diferenciados.;FALSO
-3;EGOVERNMENT;Entre los beneficios de las iniciativas de e-Government tipicamente se encuentra un mayor control de las obligaciones de los ciudadanos;VERDADERO
-3;EGOVERNMENT;Entre los beneficios de las iniciativas de e-Government tipicamente se encuentran las mejoras en el servicio brindado a la población.;VERDADERO
+3;EGOVERNMENT;Entre los beneficios de las iniciativas de e-Government típicamente se encuentra un mayor control de las obligaciones de los ciudadanos.;VERDADERO
+3;EGOVERNMENT;Entre los beneficios de las iniciativas de e-Government típicamente se encuentran las mejoras en el servicio brindado a la población.;VERDADERO
 3;ELEARNING;Algunos productos de e-Learning son ACME e-Learning, Kallidus Compose, Moodle, Claroline, SCORM e-Learning, etc.;FALSO
 3;ELEARNING;e-Learning es la utilización de aulas virtuales para mejorar la calidad del aprendizaje y facilitar el acceso a la educación y la formación.;VERDADERO
 3;ELEARNING;e-Learning es la utilización de tecnologías multimediales sobre Internet para mejorar la calidad del aprendizaje y facilitar el acceso a la educación y la formación.;VERDADERO
@@ -70,7 +70,7 @@
 3;GIS;Los sistemas GISs son sólo aplicables a logística de distribución, ya que, por ejemplo, permiten optimizar recorridos con la consecuente reducción de costos operacionales.;FALSO
 3;GIS;Los sistemas GISs tienen aplicación en múltiples áreas. En logística de distribución por ejemplo, permiten optimizar recorridos con la consecuente reducción de costos operacionales.;VERDADERO
 3;HCM;Los HCMs, por ejemplo, permiten llevar un listado de ofertas de trabajo y herramientas para la selección del personal. También incluyen la definición la de estructura de la empresa, la gestión planes de carrera y sucesiones, y simulación de masa salarial.;VERDADERO
-3;HCM;Los principales beneficios de los sistemas de HCM son el aumentar la productividad y la eficacia operativa del personal de RRHH; la centralización de procesos de RRHH y su utilización en relación a capacitación, entrenamiento y conocimiento de habilidades del personal.;VERDADERO
+3;HCM;Los principales beneficios de los sistemas de HCM son el aumentar la productividad y la eficacia operativa del personal de RRHH,  la centralización de procesos de RRHH y su utilización en relación a capacitación, entrenamiento y conocimiento de habilidades del personal.;VERDADERO
 3;HCM;Los sistemas de HCM, tienen su principal área de aplicación en Logística y permiten optimizar la cadena de valor.;FALSO
 3;HCM;Otro beneficio interesante de los sistemas de HCM es la posibilidad del autoservicio permitiendo que los propios empleados realicen las actualizaciones relativas a nacimientos, capacitación, etc. dando una mayor agilidad en el procesamiento y menores costos.;VERDADERO
 3;HCM;Un sistema de gestión de capital humano, HCM, es una herramienta destinada a facilitar el trabajo del área de recursos humanos concentrando información relevante del personal y proporcionando una plataforma para alinear los procesos del área con los objetivos de la organización.;VERDADERO
@@ -145,7 +145,7 @@
 5;GESTIÓN DEL CONOCIMIENTO;En general, las organizaciones suelen desplegar su propia infaestructura para soportar soluciones de Gestión del Conocimiento, dada la estrecha relación con las competencias centrales del negocio.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;La Gestión del Conocimiento se refiere a los sistemas administrativo-contable que permiten la utilización de la información de la empresa.;FALSO
 5;GESTIÓN DEL CONOCIMIENTO;La Gestión del Conocimiento se refiere al proceso que identifica, captura, almacena, mantiene, actualiza y transmite el conocimiento existente en una organización con el fin de que esté disponible.;VERDADERO
-5;GESTIÓN DEL CONOCIMIENTO;Los proyectos de Gestión del Conocimiento, se justifican a través de la mayor productividad, consecuencia del menor impacto de la rotación del personal; la replicación de soluciones ya implantadas; y los ahorros en capacitación.;VERDADERO
+5;GESTIÓN DEL CONOCIMIENTO;Los proyectos de Gestión del Conocimiento, se justifican a través de la mayor productividad, consecuencia del menor impacto de la rotación del personal,  la replicación de soluciones ya implantadas,  y los ahorros en capacitación.;VERDADERO
 5;GESTIÓN DEL CONOCIMIENTO;Un proyecto de Gestión del Conocimiento para una empresa mediana puede costar algunos cientos de miles de dólares.;VERDADERO
 5;GROUPWARE;El ancho de banda de la infraestructura de las comunicaciones debe ser suficiente para permitir la trasmisión de contenido multimedial a múltiples destinatarios.;VERDADERO
 5;GROUPWARE;El ancho de banda de la infraestructura de las comunicaciones no resulta un condicionante para el despliegue de soluciones de Groupware.;FALSO
@@ -171,7 +171,7 @@
 7;INTERNET Y LA ESTRATEGIA;Por el efecto red, hay servicios que elevan su valor cuando aumentan sus usuarios (correo electrónico, subastas, salas de chateo, redes sociales).;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Por el efecto red, se pueden crear economías de escala del lado de la demanda y favorecer la creación de barreras de entrada.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, la ausencia de instalaciones físicas que circunscribe funciones y reduce las posibilidades de desarrollar una imagen clara.;VERDADERO
-7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, que la capacidad de aprendizaje de los proveedores y clientes se ve limitada.;FALSO
+7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, que la capacidad de aprendizaje de los proveedores y clientes se ve limitada.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;Porter señala algunas limitaciones inherentes a Internet. Entre ellas, que la transmisión de conocimientos se restringe al saber codificado.;VERDADERO
 7;IOT;El desarrollo de la Internet of Things implica renovados desafíos en privacidad y seguridad.;VERDADERO
 7;IOT;El pasaje de IPV4 a IPV6 es un requisito técnico esencial para el despliegue de la Internet of Things.;VERDADERO
@@ -185,21 +185,13 @@
 7;REDES SOCIALES;En el ambiente de Internet, las Redes Sociales, son páginas web que se conectan entre ellas, a fin de compartir información, relacionarse y crear comunidades sobre temas similares.;FALSO
 7;REDES SOCIALES;En el ambiente de la Sociología, una Redes Social es un grupo de personas que se relacionan entre si.;VERDADERO
 7;REDES SOCIALES;Entre los efectos no deseados de los Redes Sociales, se encuentra el hecho que la organización generalmente debe adaptar sus procesos/forma de trabajo a los procesos incluidos dentro del nuevo sistema...;FALSO
-7;REDES SOCIALES;Entre los efectos no deseados de los RSS, está asociado a la sobrecarga de información que ellos representan.;VERDADERO
-7;REDES SOCIALES;Habitualmente una fuente RSS contiene los titulares de las noticias o artículos y un resumen del contenido.;VERDADERO
 7;REDES SOCIALES;Las redes sociales facilitan las relaciones entre las personas sin importar las distancias y favorecen el trabajo colaborativo.;VERDADERO
 7;REDES SOCIALES;Las redes sociales facilitan las relaciones entre los sitios web sin importar las distancias.;FALSO
 7;REDES SOCIALES;Las Redes Sociales permiten a los usuarios participar en un proyecto en línea.;VERDADERO
 7;REDES SOCIALES;Las tecnologías que utilizan las Redes Sociales están basadas en la consolidación de aplicaciones en un solo lugar.;VERDADERO
 7;REDES SOCIALES;Las tecnologías y mecanismos de interacción que utilizan las Redes Sociales son significativamente distintas a la que usan la mayoría de las personas para otras actividades.;FALSO
-7;REDES SOCIALES;Los RSS rara vez incorporan las mejores prácticas, ya que las mismas varían de empresa a empresa.;FALSO
-7;REDES SOCIALES;No siempre se pueden desplegar elementos gráficos y/o fotografías en RSS.;VERDADERO
 7;REDES SOCIALES;Permite a las personas investigar por si solas.;VERDADERO
 7;REDES SOCIALES;Pueden colaborar en el aprendizaje integral como apoyo al sistema de educación presencial.;VERDADERO
-7;REDES SOCIALES;RSS, Really Simple Syndication, es una familia de formatos web codificados en XML. Se utiliza para difundir información actualizada frecuentemente a usuarios que se han suscrito a la fuente de contenidos.;VERDADERO
-7;REDES SOCIALES;RSS, Research Simplification System, es un método utilizado por las empresas para conseguir información necesaria en los procesos de Investigación y Desarrollo.;FALSO
-7;REDES SOCIALES;Uno de inconvenientes propios de los RSS es que la persona debe suscribirse para recibir contenido (noticias, artículos, productos, etc.) de su interés.;FALSO
-7;REDES SOCIALES;Uno de los mayores beneficios de los RSS es que la persona se suscribe para recibir contenido (noticias, artículos, productos, etc.) de su interés, controlando el flujo de la información que recibe.;VERDADERO
 7;REDES SOCIALES EN LA EMPRESA;El comportamiento de los grupos sociales no puede ser controlado por las organizaciones, riesgo que debe ser asumido al momento de iniciar acciones de marketing basadas en Redes Sociales.;VERDADERO
 7;REDES SOCIALES EN LA EMPRESA;El comportamiento de los grupos sociales puede ser controlado por las organizaciones, circunstancia que favorece las acciones de marketing basadas en Redes Sociales.;FALSO
 7;REDES SOCIALES EN LA EMPRESA;Las organizaciones pueden asignar recursos de marketing para generar y mantener comunidades utilizando las redes sociales, aumentando así la recordación no asistida de la marca, los indices de fidelización, etc.;VERDADERO
@@ -232,7 +224,7 @@
 7;WI FI;Wi-Fi es un conjunto de estándares para redes inalámbricas de corto alcance basado en las especificaciones IEEE 802.11.;VERDADERO
 7;WI FI;Wi-Fi es un conjunto de estándares para redes inalámbricas de largo alcance basado en las especificaciones IEEE 802.11.;FALSO
 7;WIKI;La falta de moderación en algunas Wikis, puede hacer que las mismas posean información incorrecta y/o contenidos inapropiados.;VERDADERO
-7;WIKI;La Wikis ofrecen herramientas de gestión de los cambios, las cuales permiten identificar la autoría de los mismos, la fecha en que dichos cambios fueron realizados, etc.; favoreciendo de esta manera una edición responsable de contenidos.;VERDADERO
+7;WIKI;La Wikis ofrecen herramientas de gestión de los cambios, las cuales permiten identificar la autoría de los mismos, la fecha en que dichos cambios fueron realizados, etc.  Favoreciendo de esta manera una edición responsable de contenidos.;VERDADERO
 7;WIKI;Las Wikis facilitan el intercambio de información entre personas dispersas geográficamente.;VERDADERO
 7;WIKI;Las Wikis son bibliotecas virtuales basadas en el conocimiento de los emblemas de los temas a desarrollar;FALSO
 7;WIKI;Las Wikis son herramientas para creación de contenidos en entornos web, donde se permite que los usuarios creen y editen los mismos de manera fácil e interactiva.;VERDADERO
@@ -246,7 +238,7 @@
 9;ALINEAMIENTO ESTRATÉGICO;El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una arquitectura de servicios basados en TIC.;VERDADERO
 9;ALINEAMIENTO ESTRATÉGICO;Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear  ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.;VERDADERO
 9;ALINEAMIENTO ESTRATÉGICO;Uno de los principales beneficios del alineamiento de las TIC, está asociado a la posibilidad de crear ventajas competitivas basadas en tecnologías y alrededor de los ejes estratégicos.;VERDADERO
-9;ESTRATEGIA Y TIC;Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional; cámaras digitales vs. cámaras con películas; etc.;VERDADERO
+9;ESTRATEGIA Y TIC;Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional,  cámaras digitales vs. cámaras con películas, etc;VERDADERO
 9;LA TI YA NO IMPORTA;Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de minimizar los costos asociados a las mismas.;VERDADERO
 9;LA TI YA NO IMPORTA;El artículo Las TI ya no importan fue escrito por Michael Earl.;FALSO
 9;LA TI YA NO IMPORTA;En el artículo titulado Las TI ya no importan, se señala el proceso de diferenciación que afecta a los componentes utilizados en la industria informática, y en como la misma permite generar ventajas competitivas.;FALSO
@@ -273,7 +265,7 @@
 11;CÓDIGO ABIERTO;Posiblemente la mayor ventaja para la organización usuaria de software de código abierto resida en la posibilidad de adaptar el producto a necesidades específicas sin dependencias de terceros.;VERDADERO
 11;SOFTWARE LIBRE;Dado que el código fuente de software libre está disponible, uno de sus principales beneficios es la no dependencia del proveedor, situación que para ciertos casos (un organismo de defensa por ejemplo) puede ser crítica.;VERDADERO
 11;SOFTWARE LIBRE;Durante la operación de software libre no es común contratar personal auxiliar para el desarrollo de los módulos a implementar sobre el lenguaje en el que se quiere utilizar.;FALSO
-11;SOFTWARE LIBRE;El software libre es aquel que le permite al usuario el usar el programa, con cualquier propósito; el estudiar el funcionamiento; el adaptarlo a sus necesidades; y el distribuir copias. Libre no necesariamente significa gratuito.;VERDADERO
+11;SOFTWARE LIBRE;El software libre es aquel que le permite al usuario el usar el programa, con cualquier propósito, el estudiar el funcionamiento,  el adaptarlo a sus necesidades  y el distribuir copias. Libre no necesariamente significa gratuito.;VERDADERO
 11;SOFTWARE LIBRE;El software libre estimula a la innovación, ya que ofrece un producto potencialmente flexible, de menor costo (al menos en cuanto licenciamiento se refiere), e independiente de lo que el proveedor decida hacer con el mismo.;VERDADERO
 11;SOFTWARE LIBRE;El software libre se puede desarrollar mediante el esfuerzo colectivo, aunque no necesariamente coordinado, de programadores alrededor del globo utilizando los medios que Internet.;VERDADERO
 11;SOFTWARE LIBRE;En el Software libre la tecnología es un factor crítico. Los lenguajes son siempre muy complejos y desordenados, haciendo casi imposible su modificación.;FALSO
@@ -321,7 +313,7 @@
 12;VOIP;Una de las principales ventajas de VoIP es utiliza la infraestructura de datos existente, evitando recurrir a lineas dedicadas de la red PSTN, telefonía pública, con el consecuente ahorro en costos.;VERDADERO
 12;VOIP;Una vez que la voz es digitalizada y encapsulada en paquetes IP, puede ser integrada con otros medios de comunicación como correos, mensajes instantáneas, faxes, facilitando el despliegue de soluciones de comunicaciones unificadas.;VERDADERO
 12;VOIP;VoIP o Virtualization on Investment Products es una técnica en la cual la empresa proveedora muestra sus productos de manera digital al cliente por medio de modelos 3d o 2d.;FALSO
-12;VOIP;VoIP o Voz sobre Protocolo de Internet, también llamado Voz IP... es un grupo de recursos que hacen posible que la señal de voz viaje a través de redes IP; Internet entre ellas.;VERDADERO
+12;VOIP;VoIP o Voz sobre Protocolo de Internet, también llamado Voz IP... es un grupo de recursos que hacen posible que la señal de voz viaje a través de redes IP,  Internet entre ellas.;VERDADERO
 12;VPN;La incorrecta configuración de las políticas de seguridad o de acceso, pueden hacer vulnerable la red.;VERDADERO
 12;VPN;La incorrecta configuración de las políticas de seguridad, puede generar un mayor costo de conectividad.;FALSO
 12;VPN;Posiblemente el mayor beneficio que ofrecen las VPN esté asociado a la disponibilidad, ya que mediante esta tecnología se comparte la infraestructura.;FALSO
@@ -361,3 +353,11 @@
 13;SOA;SOA propone un modelo mucho más eficiente, en el que el código de la función es independiente de la forma en que se resuelve la integración.;VERDADERO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
