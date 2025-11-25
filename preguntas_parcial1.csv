@@ -245,7 +245,8 @@
 10;SHADOW IT;No existe evidencia que demuestre que las soluciones desplegadas bajo Shadow IT típicamente impliquen expuestos de seguridad o al cumplimiento de regulaciones.;FALSO
 10;LA DESCONEXIÓN;Se entiende por desconexión al desalineamiento entre los objetivos de los ejecutivos del negocio y de los CIO que parecen no comprender los objetivos del negocio a largo plazo, haciendo que las inversiones en TIC no potencien la estrategia competitiva.;VERDADERO
 10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Según Jeanne W. Ross, el CIO es el responsable de definir cuán buenos deben ser los servicios informáticos que brinda, considerando siempre la excelencia en la ejecución.;FALSO
-10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Según Jeanne W. Ross, la asignación de recursos a los distintos procesos de negocio, no es competencia exclusiva del CIO.;VERDADERO
+10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Según Jeanne W. Ross, la asignación de recursos a los distintos procesos de negocio, no es competencia exclusiva del CIO.;FALSO
+10;LAS 6 DECISIONES DE IT QUE SU GENTE DE IT NO DEBERÍA TOMAR;Ross señala seis decisiones que el CIO no debería tomar en soledad. Tres de tipo estratégico y tres de tipo operacional.;VERDADERO;
 11;CÓDIGO ABIERTO;Como ejemplos de productos Open Source se puede mencionar: el Sistema Operativo Linux, el Servidor Web Apache, el navegador Mozilla, el conjunto de aplicaciones de oficina OpenOffice, etc.;VERDADERO
 11;SOFTWARE LIBRE;Dado que el código fuente de software libre está disponible, uno de sus principales beneficios es la no dependencia del proveedor, situación que para ciertos casos (un organismo de defensa por ejemplo) puede ser crítica.;VERDADERO
 11;SOFTWARE LIBRE;Durante la operación de software libre no es común contratar personal auxiliar para el desarrollo de los módulos a implementar sobre el lenguaje en el que se quiere utilizar.;FALSO
@@ -346,4 +347,3 @@
 13;ARQUITECTURA e-BUSINESS;Una arquitectura e-Business abierta a clientes y proveedores minimizará la falta de madurez de los procesos internos.;FALSO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
-
