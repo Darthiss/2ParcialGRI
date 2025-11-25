@@ -298,7 +298,7 @@
 12;EXTRANET;Los proyectos de despliegue de Extranets suelen fracasar por la falta de compromiso integral de la organización.;FALSO
 12;EXTRANET;Los sistemas de información de la organización pueden ser atacados a través de la Extranet sino se toman recaudo de seguridad apropiados tales como antivirus, firewalls, IDS, etc.;VERDADERO
 12;VOIP;Los VoIP rara vez incorporan las mejores prácticas, ya que las mismas varían de empresa a empresa.;FALSO
-12;EXTRANET;Mediante aplicaciones de la Extranet los trabajadores de la empresa pueden obtener fácil y rápidamente la información sobre los clientes, proveedores y socios, desde fuera de la organización.;VERDADERO
+12;EXTRANET;Mediante aplicaciones de la Extranet los trabajadores de la empresa pueden obtener fácil y rápidamente la información sobre los clientes, proveedores y socios, desde fuera de la organización.;FALSO
 12;VPN;Posiblemente el mayor beneficio que ofrecen las VPN esté asociado a la disponibilidad, ya que mediante esta tecnología se comparte la infraestructura.;FALSO
 12;VPN;Posiblemente el mayor beneficio que ofrecen las VPN esté asociado los costos, ya que mediante esta tecnología se comparte la infraestructura.;FALSO
 12;EXTRANET;Se denomina Extranet a una red externa a la organización y no conectada a la misma;FALSO
@@ -346,3 +346,4 @@
 13;ARQUITECTURA e-BUSINESS;Una arquitectura e-Business abierta a clientes y proveedores minimizará la falta de madurez de los procesos internos.;FALSO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
+
