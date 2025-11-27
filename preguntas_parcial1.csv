@@ -167,7 +167,8 @@
 7;REDES SOCIALES;En el ambiente de la Sociología, una Red Social es un grupo de personas que se relacionan entre sí. En el ambiente de Internet son páginas que permiten a las personas conectarse entre ellas, a fin de compartir información, relacionarse y crear comunidades sobre intereses similares.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;En Internet y la Estrategia se analiza el impacto de Internet y las tecnologias asociadas, en la cadena de valor, desde proveedores a clientes.;VERDADERO
 7;INTERNET Y LA ESTRATEGIA;En Internet y la Estrategia se analiza el impacto de los sistemas CRM en la cadena de valor.;FALSO
-7;WEB 2 0;En la Web 2.0 se fomenta la transición desde aplicaciones tradicionales hacia aplicaciones que funcionan a través de la web, enfocadas al usuario final.;FALSO
+7;WEB 2 0;En la Web 2.0 se fomenta la transición desde aplicaciones tradicionales hacia aplicaciones que funcionan a través de la web, enfocadas al usuario final.;VERDADERO
+7;WEB 2 0;En la Web 2.0 se fomentan las aplicaciones que generen colaboración en la web y de servicios que reemplacen las aplicaciones de escritorio.;VERDADERO
 7;REDES SOCIALES;Entre los efectos no deseados de los Redes Sociales, se encuentra el hecho que la organización generalmente debe adaptar sus procesos/forma de trabajo a los procesos incluidos dentro del nuevo sistema, o realizar importantes adecuaciones al software.;FALSO
 7;IOT;Inteligencia ambiental, controles autónomos y domótica, etc. son conceptos que sólo serán realizables mediante el despliegue de la Internet of Things.;FALSO
 7;WIKI;La falta de moderación en algunas Wikis, puede hacer que las mismas posean información incorrecta y/o contenidos inapropiados.;VERDADERO
@@ -228,6 +229,7 @@
 7;WI FI;Wi-Fi es un conjunto de estándares para redes inalámbricas de largo alcance basado en las especificaciones IEEE 802.11.;FALSO
 8;TCO;Los costos asociados al personal propio ya existente, no forman parte del TCO de una dada solución.;FALSO
 9;LA TI YA NO IMPORTA;Carr indica que las TIC deben ser gestionadas como un factor de riesgo, con el propósito de minimizar los costos asociados a las mismas.;VERDADERO
+9;ESTRATEGIA Y TIC;Las TIC dificilmente puedan ser usadas para aumentar la capacidad de negociación con proveedores y clientes;FALSO
 9;ALINEAMIENTO ESTRATÉGICO;Como en cualquier otra metodología racional de asignación de recursos, habrá intereses y necesidades que puedan parecer haberse ignorado.;VERDADERO
 9;ALINEAMIENTO ESTRATÉGICO;El alineamiento estratégico de las TIC, hace referencia a cómo estas responden, soportan y potencian las iniciativas del sector de Procesamiento de Datos y/o Sistemas de Información.;FALSO
 9;ALINEAMIENTO ESTRATÉGICO;El alineamiento estratégico facilita la definición de un marco referencial para el desarrollo de una arquitectura de servicios basados en TIC.;VERDADERO
@@ -235,6 +237,7 @@
 9;LA TI YA NO IMPORTA;En el artículo titulado Las TI ya no importan, se señala el proceso de diferenciación que afecta a los componentes utilizados en la industria informática, y en como la misma permite generar ventajas competitivas.;FALSO
 9;LA TI YA NO IMPORTA;Las TIC deben manejarse, según Carr, como una fuente de riesgo, minimizando costos e inversiones.;VERDADERO
 9;ESTRATEGIA Y TIC;Las TIC pueden ser usadas para generar productos sustitutos en un dado sector industrial: email vs. correo tradicional,  cámaras digitales vs. cámaras con películas, etc;VERDADERO
+9;ESTRATEGIA Y TIC;El responsable máximo de la gestión de las TIC debe ser designado como CIO con independencia del tamaño de la organización, ya que la relevacia del puesto es el único factor determinante;FALSO
 9;LA TI YA NO IMPORTA;Nicholas Carr sostiene que debido al proceso de estandarización y masificación de la tecnología, ya no es posible obtener ventajas competitivas derivadas de la aplicación de las TIC.;VERDADERO
 9;LA TI YA NO IMPORTA;Rockett, como Carr, indica que las TIC no ofrecen la posibilidad de generar diferenciación.;FALSO
 9;LA TI YA NO IMPORTA;Según David Walter, Carr algo de razón tiene, ya que el potencial de las TIC no es infinito y es esperable que el crecimiento sea menos intenso y más predecible.;VERDADERO
@@ -310,7 +313,7 @@
 12;EXTRANET;Una Extranet utiliza fundamentalmente tecnologías como RFID, SmartTag, Wi-Fi y Blue Tooth.;FALSO
 12;EXTRANET;Una Extranet utiliza los protocolos y tecnologías propias de Internet: TCP/IP, Html, ASP, Php, Ajax, Flash, etc.;VERDADERO
 12;INTERNET;Una Internet es esencialmente una red privada gestionada por un consorcio de proveedores llamados ISP.;FALSO
-12;INTRANET;Una Intranet es esencialmente una red privada basada en las tecnologías de Internet, la cual es accedida únicamente desde dentro de la organización.;VERDADERO
+12;INTRANET;Una Intranet es esencialmente una red privada basada en las tecnologías de Internet, la cual es accedida únicamente desde dentro de la organización.;FALSO
 12;INTRANET;Una Intranet es una red privada de computadoras basada en las tecnologías de Internet, y para uso interno de la organización.;VERDADERO
 12;WAN;Una red área inalámbrica o WAN (Wireless Area Network) es una red conectada por medio de receptores y emisores inalámbricos.;FALSO
 12;VOIP;Una vez que la voz es digitalizada y encapsulada en paquetes IP, puede ser integrada con otros medios de comunicación como correos, mensajes instantáneas, faxes, facilitando el despliegue de soluciones de comunicaciones unificadas.;VERDADERO
@@ -335,7 +338,7 @@
 13;CLIENTE SERVIDOR;La arquitectura Cliente-Servidor es una forma diseñar aplicaciones y servicios informáticos en los cuales parte de las tareas se realiza en un equipo central, el servidor, y otra, en el equipo del usuario.;VERDADERO
 13;CLIENTE SERVIDOR;La arquitectura cliente-servidor es utilizada en Internet. Cuando se visita a un sitio web, un servidor envía la página codificada al navegador... y es este el encargado de procesar la información y presentarla.;VERDADERO
 13;SOA;La Arquitectura Orientada a Servicios desfavorece el despliegue de servicios de IT, dando una menor flexibilidad y rapidez a la hora de responder a las demandas de los usuarios.;FALSO
-13;SOA;La Arquitectura Orientada a Servicios favorece el despliegue de servicios de IT con funcionalidades más cercanas al negocio, permitiendo asi cumplir con mayor flexibilidad y rapidez...;VERDADERO
+13;SOA;La Arquitectura Orientada a Servicios favorece el despliegue de servicios de IT con funcionalidades más cercanas al negocio, permitiendo asi cumplir con mayor flexibilidad y rapidez para responder a las demandas de los usuarios;VERDADERO
 13;SOA;Las ventajas de la arquitectura SOA, pueden verse afectadas por una mala administración de la cartera de servicios y/o una gestión deficitaria de aspectos de seguridad informática...;VERDADERO
 13;SOA;Los servicios SOA son dependientes del medio utilizado para su acceso, permitiendo ser accedidos desde aplicaciones residentes en desktops únicamente.;FALSO
 13;SOA;Los servicios SOA son independientes del medio utilizado para su acceso, permitiendo ser accedidos desde aplicaciones residentes en desktops, notebooks, PDAs, celulares, etc.;VERDADERO
@@ -347,4 +350,3 @@
 13;ARQUITECTURA e-BUSINESS;Una arquitectura e-Business abierta a clientes y proveedores minimizará la falta de madurez de los procesos internos.;FALSO
 14;RIESGOS DE TERCERIZAR LA INFORMÁTICA;La dificultad para predecir las necesidades futuras de la organización y la evolución de la tecnología, es señalada por Micheal Earl como otro factor que atenta contra el éxito de las tercerizaciones.;VERDADERO
 14;SOURCING;La tercerización, incluso parcial del área de TIC, puede ser difícil de revertir en especial si la organización pierde el conocimiento de los procesos de negocio.;VERDADERO
-
